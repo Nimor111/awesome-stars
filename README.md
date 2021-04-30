@@ -27,6 +27,7 @@
   - [Idris](#idris)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -426,7 +427,6 @@
 - [NixOS/nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
 - [juxt/yada](https://github.com/juxt/yada) - A powerful Clojure web library, full HTTP, full async - see https://juxt.pro/yada/index.html
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 - [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - :abc: A collection of 100% actually free open source fonts!
 - [scala-fmi/scala-fmi-2019](https://github.com/scala-fmi/scala-fmi-2019) - Course materials for Functional Programming in Scala, taught in Sofia University
 - [haskell-org/summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
@@ -438,7 +438,7 @@
 
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
-- [srid/ema](https://github.com/srid/ema) - WIP: Static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [qfpl/reflex-realworld-example](https://github.com/qfpl/reflex-realworld-example) - 
@@ -685,6 +685,10 @@
 - [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
 - [HackBulgaria/Frontend-JavaScript-1](https://github.com/HackBulgaria/Frontend-JavaScript-1) - The repository for the Frontend JavaScript course in Hack Bulgaria
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+
+## Jinja 
+
+- [pigmonkey/spark](https://github.com/pigmonkey/spark) - Arch Linux Provisioning with Ansible
 
 ## Jupyter Notebook 
 
