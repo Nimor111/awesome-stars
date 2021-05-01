@@ -270,6 +270,8 @@
 
 ## Emacs Lisp 
 
+- [elixir-editors/emacs-elixir](https://github.com/elixir-editors/emacs-elixir) - Emacs major mode for Elixir
+- [tonini/alchemist.el](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs
 - [Kungsgeten/org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
 - [unhammer/org-mru-clock](https://github.com/unhammer/org-mru-clock) - ⏲️ Effortlessly clock in/out of org-mode tasks, with completion and persistent history
 - [NicolasPetton/nroam](https://github.com/NicolasPetton/nroam) - Org-roam backlinks within org-mode buffers
