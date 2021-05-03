@@ -270,6 +270,7 @@
 
 ## Emacs Lisp 
 
+- [vicrdguez/dendroam](https://github.com/vicrdguez/dendroam) - Bring Dendron features to Emacs org-roam
 - [elixir-editors/emacs-elixir](https://github.com/elixir-editors/emacs-elixir) - Emacs major mode for Elixir
 - [tonini/alchemist.el](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs
 - [Kungsgeten/org-brain](https://github.com/Kungsgeten/org-brain) - Org-mode wiki + concept-mapping
