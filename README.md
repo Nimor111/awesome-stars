@@ -239,7 +239,7 @@
 
 ## Elixir 
 
-- [elixir-nx/livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView.
+- [elixir-nx/livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests with elixir
 - [lucperkins/nix-monorepo](https://github.com/lucperkins/nix-monorepo) - An illustration of how you might use Nix in a large, multi-language project and in accordance with best practices
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
@@ -440,6 +440,7 @@
 
 ## Haskell 
 
+- [bkomuves/toy-language-server](https://github.com/bkomuves/toy-language-server) - Example language server (LSP) implementation for a toy language
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
 - [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
@@ -873,6 +874,7 @@
 
 ## PureScript 
 
+- [thomashoneyman/purescript-halogen-store](https://github.com/thomashoneyman/purescript-halogen-store) - Global state management for Halogen
 - [jonasbuntinx/purescript-react-realworld](https://github.com/jonasbuntinx/purescript-react-realworld) - A real-world application demonstrating PureScript and React
 - [jim108dev/purescript-payload-realworld-example](https://github.com/jim108dev/purescript-payload-realworld-example) - Exemplary real world application built with PureScript + Payload + PostgreSQL
 - [natefaubion/example-functional-compiler](https://github.com/natefaubion/example-functional-compiler) - 
