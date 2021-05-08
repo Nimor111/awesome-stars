@@ -413,7 +413,6 @@
 - [matryer/goblueprints](https://github.com/matryer/goblueprints) - Source code for Go Programming Blueprints
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
 - [golang/go](https://github.com/golang/go) - The Go programming language
-- [mmyoji/go-monkey](https://github.com/mmyoji/go-monkey) - Code for "Writing An Interpreter in Go"
 - [gsamokovarov/jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits. ✌️
 
 ## HTML 
@@ -506,7 +505,7 @@
 - [stolyaroleh/grafanix](https://github.com/stolyaroleh/grafanix) - Visualize your Nix dependencies!
 - [TheLostLambda/glossweeper](https://github.com/TheLostLambda/glossweeper) - A minesweeper clone written with Haskell in Gloss
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
-- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake, with a delightful development experience.
+- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kowainik/tomland](https://github.com/kowainik/tomland) - 🏝 Bidirectional TOML serialization
 - [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
