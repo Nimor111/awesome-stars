@@ -21,6 +21,7 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -121,7 +122,6 @@
 - [coin-or/Bonmin](https://github.com/coin-or/Bonmin) - Basic Open-source Nonlinear Mixed INteger programming
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [Scorpion333/fmi-national-exam-preparation-2019](https://github.com/Scorpion333/fmi-national-exam-preparation-2019) - Подготовка за държавен изпит във ФМИ, КН, 2019
-- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [weka511/smac](https://github.com/weka511/smac) - Code I have written for course: Statistical Mechanics and Computations
@@ -365,6 +365,10 @@
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [prasmussen/glot-run](https://github.com/prasmussen/glot-run) - API for running code inside docker containers
 
+## GLSL 
+
+- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
+
 ## Go 
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -430,7 +434,7 @@
 - [NixOS/nixos-weekly](https://github.com/NixOS/nixos-weekly) - NixOS Weekly Newsletter
 - [juxt/yada](https://github.com/juxt/yada) - A powerful Clojure web library, full HTTP, full async - see https://juxt.pro/yada/index.html
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
-- [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - :abc: A collection of 100% actually free open source fonts!
+- [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - Archived since there are many great open source font sites already, see https://github.com/opensourcedesign/fonts/issues/21
 - [scala-fmi/scala-fmi-2019](https://github.com/scala-fmi/scala-fmi-2019) - Course materials for Functional Programming in Scala, taught in Sofia University
 - [haskell-org/summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [lispgames/lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
