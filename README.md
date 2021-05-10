@@ -74,6 +74,7 @@
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
 - [Jimx-/emacs-gl](https://github.com/Jimx-/emacs-gl) - OpenGL bindings for Emacs Lisp
 - [OnixMarble/Titan-Voyager-Custom-Game-Engine](https://github.com/OnixMarble/Titan-Voyager-Custom-Game-Engine) - 3D FPS game written from scratch in C++ and OpenGL.
+- [Hopson97/cpp-project-generator](https://github.com/Hopson97/cpp-project-generator) - For personal use, easily creates new C++ project files with Cmake etc
 - [saivarshith2000/HTTPStaticServer](https://github.com/saivarshith2000/HTTPStaticServer) - Bare-bones static HTTP server written in a single C file
 - [OverMighty/i-use-arch-btw](https://github.com/OverMighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 - [adithya-tp/Lex-Yacc-Translator](https://github.com/adithya-tp/Lex-Yacc-Translator) - A translator built with Lex and Yacc.
@@ -110,7 +111,6 @@
 ## C++ 
 
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
-- [Hopson97/cpp-project-generator](https://github.com/Hopson97/cpp-project-generator) - For personal use, easily creates new C++ project files with Cmake etc
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [eliasdaler/imgui-sfml](https://github.com/eliasdaler/imgui-sfml) - Dear ImGui binding for use with SFML
 - [PfAndrey/supermariohd](https://github.com/PfAndrey/supermariohd) - Cross-platform HD remake of Super Mario Bros (NES, 1985) with original game mechanics
@@ -172,6 +172,10 @@
 
 ## Clojure 
 
+- [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
+- [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
+- [seancorfield/clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates!
+- [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [reagent-project/reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template) - template for creating Reagent projects without a backend
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [manuel-uberti/boodle](https://github.com/manuel-uberti/boodle) - Accounting SPA in Clojure and ClojureScript
@@ -271,6 +275,8 @@
 
 ## Emacs Lisp 
 
+- [plexus/chemacs2](https://github.com/plexus/chemacs2) - Emacs version switcher, improved
+- [borkdude/flycheck-clj-kondo](https://github.com/borkdude/flycheck-clj-kondo) - Emacs integration for clj-kondo via flycheck
 - [vicrdguez/dendroam](https://github.com/vicrdguez/dendroam) - Bring Dendron features to Emacs org-roam
 - [elixir-editors/emacs-elixir](https://github.com/elixir-editors/emacs-elixir) - Emacs major mode for Elixir
 - [tonini/alchemist.el](https://github.com/tonini/alchemist.el) - Elixir Tooling Integration Into Emacs
@@ -482,7 +488,7 @@
 - [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) - Mu (μ) is a purely functional framework for building micro services.
 - [cdepillabout/termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
 - [Synthetica9/nix-linter](https://github.com/Synthetica9/nix-linter) - Linter for the Nix expression language
-- [u2zv1wx/neut](https://github.com/u2zv1wx/neut) - A dependently-typed programming language with compile-time malloc/free determination
+- [veka41/neut](https://github.com/veka41/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
@@ -623,7 +629,6 @@
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A web framework + self-hosted deployment solution for Clojure
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
@@ -926,6 +931,7 @@
 
 ## Python 
 
+- [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92]
 - [ChrisKnott/Eel](https://github.com/ChrisKnott/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
@@ -1272,6 +1278,7 @@
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [Thiht/smocker](https://github.com/Thiht/smocker) - Smocker is a simple and efficient HTTP mock server and proxy.
 - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation) - Create and animate hand-drawn annotations on a web page
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [bradtraversy/deno-rest-api](https://github.com/bradtraversy/deno-rest-api) - Simple REST API using Deno and Oak
 - [CoenraadS/Bracket-Pair-Colorizer-2](https://github.com/CoenraadS/Bracket-Pair-Colorizer-2) - Bracket Colorizer Extension for VSCode
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
