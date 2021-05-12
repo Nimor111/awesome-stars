@@ -620,6 +620,7 @@
 
 ## JavaScript 
 
+- [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [ddj231/Handel](https://github.com/ddj231/Handel) - a small procedural programming language for writting songs in browser
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The ultimate Free Open Source Solution for team communications.
