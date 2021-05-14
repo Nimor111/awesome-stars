@@ -628,7 +628,7 @@
 - [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light) - All the power of discord.js, zero caching. This library modifies discord.js's internal classes and functions in order to give you full control over its caching behaviour.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
-- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A web framework + self-hosted deployment solution for Clojure
+- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A batteries-included web framework for Clojure.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
