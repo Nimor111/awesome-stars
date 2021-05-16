@@ -275,6 +275,7 @@
 
 ## Emacs Lisp 
 
+- [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
 - [plexus/chemacs2](https://github.com/plexus/chemacs2) - Emacs version switcher, improved
 - [borkdude/flycheck-clj-kondo](https://github.com/borkdude/flycheck-clj-kondo) - Emacs integration for clj-kondo via flycheck
 - [vicrdguez/dendroam](https://github.com/vicrdguez/dendroam) - Bring Dendron features to Emacs org-roam
