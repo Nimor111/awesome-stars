@@ -178,6 +178,7 @@
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [reagent-project/reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template) - template for creating Reagent projects without a backend
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
+- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A batteries-included web framework for Clojure.
 - [manuel-uberti/boodle](https://github.com/manuel-uberti/boodle) - Accounting SPA in Clojure and ClojureScript
 - [bhauman/figwheel-main](https://github.com/bhauman/figwheel-main) - Figwheel Main provides tooling for developing ClojureScript applications
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
@@ -275,6 +276,7 @@
 
 ## Emacs Lisp 
 
+- [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
 - [plexus/chemacs2](https://github.com/plexus/chemacs2) - Emacs version switcher, improved
 - [borkdude/flycheck-clj-kondo](https://github.com/borkdude/flycheck-clj-kondo) - Emacs integration for clj-kondo via flycheck
@@ -629,7 +631,6 @@
 - [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light) - All the power of discord.js, zero caching. This library modifies discord.js's internal classes and functions in order to give you full control over its caching behaviour.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
-- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A batteries-included web framework for Clojure.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
