@@ -1345,7 +1345,7 @@
 - [francoiscabrol/ranger.vim](https://github.com/francoiscabrol/ranger.vim) - Ranger integration in vim and neovim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) - A Vim plugin for TypeScript
-- [Chiel92/vim-autoformat](https://github.com/Chiel92/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
+- [vim-autoformat/vim-autoformat](https://github.com/vim-autoformat/vim-autoformat) - Provide easy code formatting in Vim by integrating existing code formatters.
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [AndrewRadev/discotheque.vim](https://github.com/AndrewRadev/discotheque.vim) - Emphasize pieces of text, with style.
 - [chrisgrounds/haskell-refactor](https://github.com/chrisgrounds/haskell-refactor) - A vim plugin that helps you refactor Haskell code
