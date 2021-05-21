@@ -735,6 +735,7 @@
 
 ## Markdown 
 
+- [Nimor111/notebook](https://github.com/Nimor111/notebook) - Notes /  Digital garden / Zettelkasten / More hype terms
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## Nix 
@@ -884,6 +885,7 @@
 
 ## PureScript 
 
+- [restaumatic/purescript-specular](https://github.com/restaumatic/purescript-specular) - A Reflex-Dom inspired UI library for PureScript
 - [thomashoneyman/purescript-halogen-store](https://github.com/thomashoneyman/purescript-halogen-store) - Global state management for Halogen
 - [jonasbuntinx/purescript-react-realworld](https://github.com/jonasbuntinx/purescript-react-realworld) - A real-world application demonstrating PureScript and React
 - [jim108dev/purescript-payload-realworld-example](https://github.com/jim108dev/purescript-payload-realworld-example) - Exemplary real world application built with PureScript + Payload + PostgreSQL
