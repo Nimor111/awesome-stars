@@ -172,6 +172,8 @@
 
 ## Clojure 
 
+- [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
+- [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
 - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
 - [seancorfield/clj-new](https://github.com/seancorfield/clj-new) - Generate new projects based on clj, Boot, or Leiningen Templates!
@@ -452,6 +454,7 @@
 
 ## Haskell 
 
+- [alpacaaa/zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell) - Learn Haskell, without the bullshit.
 - [bkomuves/toy-language-server](https://github.com/bkomuves/toy-language-server) - Example language server (LSP) implementation for a toy language
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
@@ -556,7 +559,6 @@
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
 - [tweag/inline-js](https://github.com/tweag/inline-js) - Call JavaScript from Haskell, and vice versa!
 - [haskell/attoparsec](https://github.com/haskell/attoparsec) - A fast Haskell library for parsing ByteStrings
-- [alpacaaa/zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell) - Learn Haskell, without the bullshit.
 - [gtk2hs/gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
 - [i-am-tom/haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
 - [chrisdone/intero](https://github.com/chrisdone/intero) - 
