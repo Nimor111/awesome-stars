@@ -172,6 +172,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
@@ -278,6 +279,7 @@
 
 ## Emacs Lisp 
 
+- [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
 - [plexus/chemacs2](https://github.com/plexus/chemacs2) - Emacs version switcher, improved
@@ -797,6 +799,7 @@
 
 ## Others 
 
+- [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [bardisty/gruvbox-rofi](https://github.com/bardisty/gruvbox-rofi) - Gruvbox dark and light color themes for Rofi
