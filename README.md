@@ -174,7 +174,7 @@
 
 - [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven router for Clojure/Script
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge sharing and management. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
@@ -1040,6 +1040,7 @@
 
 ## Rust 
 
+- [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [marcusbuffett/bevy_snake](https://github.com/marcusbuffett/bevy_snake) - Clone of the snake game, with Bevy
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
