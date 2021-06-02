@@ -25,6 +25,7 @@
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Hy](#hy)
   - [Idris](#idris)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -281,6 +282,7 @@
 
 ## Emacs Lisp 
 
+- [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
 - [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
@@ -600,6 +602,10 @@
 - [ekmett/lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
 - [RadoRado/HUnit-Test-Generator](https://github.com/RadoRado/HUnit-Test-Generator) - A small Haskell program that reads a dead-simple DSL and generates proper HUnit tests
 - [HackBulgaria/Haskell-1](https://github.com/HackBulgaria/Haskell-1) - Functional Programming with Haskell
+
+## Hy 
+
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
 ## Idris 
 
