@@ -134,7 +134,7 @@
 - [SofiaCPP/IPL](https://github.com/SofiaCPP/IPL) - Implementation of Programming Languages course
 - [JoeyDeVries/Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine
 - [ConsoleTVs/VirtualMachine](https://github.com/ConsoleTVs/VirtualMachine) - A simple virtual machine built with c++ that supports multiple types and operations :)
-- [tuyasa/ClionOpenGLSetUp](https://github.com/tuyasa/ClionOpenGLSetUp) - Set up of OpenGL with glad, glm and glfw on a clion projects
+- [tuyasa/ClionOpenGLSetUp-Mac](https://github.com/tuyasa/ClionOpenGLSetUp-Mac) - Set up of OpenGL with glad, glm and glfw on a clion projects
 - [gabime/spdlog](https://github.com/gabime/spdlog) - Fast C++ logging library.
 - [Limeoats/cavestory-development](https://github.com/Limeoats/cavestory-development) - All of the source code from my Remaking Cavestory in C++ youtube series can be found in this repository.
 - [GameFoundry/bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications
