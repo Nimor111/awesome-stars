@@ -282,6 +282,7 @@
 
 ## Emacs Lisp 
 
+- [Titan-C/org-cv](https://github.com/Titan-C/org-cv) - Org exporter for CV. Mirror of https://gitlab.com/Titan-C/org-cv
 - [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
@@ -636,6 +637,7 @@
 
 ## JavaScript 
 
+- [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [ddj231/Handel](https://github.com/ddj231/Handel) - a small procedural programming language for writting songs in browser
@@ -1278,6 +1280,7 @@
 
 ## TeX 
 
+- [liantze/AltaCV](https://github.com/liantze/AltaCV) - Yet another alternative curriculum vitae/résumé class with LaTeX
 - [aidanscannell/my-org-resume](https://github.com/aidanscannell/my-org-resume) - Personal CV/Resume written in Org-mode with the LaTeX AltaCV template.
 - [v--/se2018](https://github.com/v--/se2018) - Study notes for my state examination in Sofia University
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and computer science.
