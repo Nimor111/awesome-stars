@@ -659,7 +659,6 @@
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
 - [halfzebra/create-elm-app](https://github.com/halfzebra/create-elm-app) - 🍃 Create Elm apps with zero configuration
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [strapi/buffet](https://github.com/strapi/buffet) - Buffet.js — React Components Library made with styled-components
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
@@ -1358,6 +1357,7 @@
 - [arcticicestudio/nord-vim](https://github.com/arcticicestudio/nord-vim) - An arctic, north-bluish clean and elegant Vim theme.
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [segeljakt/vim-silicon](https://github.com/segeljakt/vim-silicon) - Vim plugin for generating images of source code using https://github.com/Aloxaf/silicon
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 - [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
 - [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs)
