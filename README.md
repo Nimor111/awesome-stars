@@ -623,6 +623,7 @@
 
 ## Java 
 
+- [PhilipAtanassov/stronzo](https://github.com/PhilipAtanassov/stronzo) - 
 - [ccrama/Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
