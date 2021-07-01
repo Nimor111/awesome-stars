@@ -611,6 +611,7 @@
 ## Idris 
 
 - [ctford/flying-spaghetti-monster](https://github.com/ctford/flying-spaghetti-monster) - An Idris type provider for communicating type-checkable protocols.
+- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [idris-hackers/idris-demos](https://github.com/idris-hackers/idris-demos) - Collection of Idris tests and demonstration programs
 - [edwinb/Idris2-boot](https://github.com/edwinb/Idris2-boot) - A dependently typed programming language, a successor to Idris
 - [kowainik/idris-patricia](https://github.com/kowainik/idris-patricia) - 🌋 Idris implementation of patricia tree
@@ -1230,7 +1231,6 @@
 
 ## Scheme 
 
-- [idris-lang/Idris2](https://github.com/idris-lang/Idris2) - A purely functional programming language with first class types
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 
