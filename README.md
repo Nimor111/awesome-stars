@@ -1276,7 +1276,7 @@
 ## Swift 
 
 - [markdaws/Toy3D](https://github.com/markdaws/Toy3D) - A simple 3D engine written in Swift + Metal, for educational purposes.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 
 ## TeX 
