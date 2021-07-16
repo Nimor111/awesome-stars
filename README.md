@@ -250,7 +250,7 @@
 
 ## Elixir 
 
-- [elixir-nx/livebook](https://github.com/elixir-nx/livebook) - Interactive and collaborative code notebooks - made with Phoenix LiveView
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests with elixir
 - [lucperkins/nix-monorepo](https://github.com/lucperkins/nix-monorepo) - An illustration of how you might use Nix in a large, multi-language project and in accordance with best practices
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
@@ -786,7 +786,7 @@
 - [justinwoo/easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix
 - [nh2/nixops-tutorial](https://github.com/nh2/nixops-tutorial) - Tutorial for practical deployments with NixOps
 - [cprussin/nixjs](https://github.com/cprussin/nixjs) - A nix overlay containing a collection of node versions and associated tools
-- [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly.
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @nmattia]
 - [cprussin/dotfiles](https://github.com/cprussin/dotfiles) - Configure all the things!
 - [Gabriel439/simple-twitter](https://github.com/Gabriel439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
