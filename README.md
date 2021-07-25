@@ -94,7 +94,6 @@
 - [skx/simple.vm](https://github.com/skx/simple.vm) - Simple virtual machine which inteprets bytecode.
 - [pbohun/basic-cpu](https://github.com/pbohun/basic-cpu) - simple virtual cpu in c
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-- [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter) - Write a simple interpreter of C. Inspired by c4 and largely based on it.
 - [veandco/go-sdl2](https://github.com/veandco/go-sdl2) - SDL2 binding for Go
 - [orangeduck/mpc](https://github.com/orangeduck/mpc) - A Parser Combinator library for C
@@ -160,7 +159,7 @@
 
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - How to export Org mode files into awesome HTML in 2 minutes
 - [zwbetz-gh/papercss-hugo-theme](https://github.com/zwbetz-gh/papercss-hugo-theme) - A Hugo theme made with PaperCSS, the less formal CSS framework.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data. &lt;personal.management.system.pms@gmail.com&gt;
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
@@ -1134,6 +1133,7 @@
 - [phaazon/luminance-rs](https://github.com/phaazon/luminance-rs) - Type-safe, type-level and stateless Rust graphics framework
 - [Nercury/rust-and-opengl-lessons](https://github.com/Nercury/rust-and-opengl-lessons) - Collection of example code for learning OpenGL in Rust
 - [pikelet-lang/pikelet](https://github.com/pikelet-lang/pikelet) - A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧
+- [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings for Rust
 - [nical/lyon](https://github.com/nical/lyon) - 2D graphics rendering on the GPU in rust using path tessellation.
 - [sfackler/cargo-tree](https://github.com/sfackler/cargo-tree) - 
 - [cksac/fake-rs](https://github.com/cksac/fake-rs) - A library for generating fake data in Rust.
