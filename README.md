@@ -77,7 +77,7 @@
 - [OnixMarble/Titan-Voyager-Custom-Game-Engine](https://github.com/OnixMarble/Titan-Voyager-Custom-Game-Engine) - 3D FPS game written from scratch in C++ and OpenGL.
 - [Hopson97/cpp-project-generator](https://github.com/Hopson97/cpp-project-generator) - For personal use, easily creates new C++ project files with Cmake etc
 - [saivarshith2000/HTTPStaticServer](https://github.com/saivarshith2000/HTTPStaticServer) - Bare-bones static HTTP server written in a single C file
-- [OverMighty/i-use-arch-btw](https://github.com/OverMighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
+- [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
 - [adithya-tp/Lex-Yacc-Translator](https://github.com/adithya-tp/Lex-Yacc-Translator) - A translator built with Lex and Yacc.
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [nesbox/TIC-80](https://github.com/nesbox/TIC-80) - TIC-80 is a fantasy computer for making, playing and sharing tiny games.
@@ -174,7 +174,7 @@
 
 - [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven router for Clojure/Script
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source(frontend now, backend later) platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
