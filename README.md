@@ -21,11 +21,11 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [Fennel](#fennel)
   - [GLSL](#glsl)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
-  - [Hy](#hy)
   - [Idris](#idris)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -382,6 +382,10 @@
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [prasmussen/glot-run](https://github.com/prasmussen/glot-run) - API for running code inside docker containers
 
+## Fennel 
+
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
+
 ## GLSL 
 
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
@@ -602,10 +606,6 @@
 - [ekmett/lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
 - [RadoRado/HUnit-Test-Generator](https://github.com/RadoRado/HUnit-Test-Generator) - A small Haskell program that reads a dead-simple DSL and generates proper HUnit tests
 - [HackBulgaria/Haskell-1](https://github.com/HackBulgaria/Haskell-1) - Functional Programming with Haskell
-
-## Hy 
-
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 
 ## Idris 
 
@@ -952,6 +952,7 @@
 
 ## Python 
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python
 - [akhater/Lupin](https://github.com/akhater/Lupin) - 
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
@@ -1244,7 +1245,6 @@
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ar1a/dotfiles](https://github.com/ar1a/dotfiles) - My dotfiles
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
 - [Fmstrat/gam](https://github.com/Fmstrat/gam) - GitHub Application Manager
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
