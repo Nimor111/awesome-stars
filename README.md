@@ -1239,7 +1239,7 @@
 ## Shell 
 
 - [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
-- [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
+- [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [tsk-tsk/tsk-tsk](https://github.com/tsk-tsk/tsk-tsk) - TSK - The Scripting Kit
 - [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
