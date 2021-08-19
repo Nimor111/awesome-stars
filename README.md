@@ -1192,7 +1192,7 @@
 ## Scala 
 
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
-- [fthomas/refined](https://github.com/fthomas/refined) - Simple refinement types for Scala
+- [fthomas/refined](https://github.com/fthomas/refined) - Refinement types for Scala
 - [alexarchambault/ammonite-spark](https://github.com/alexarchambault/ammonite-spark) - Run spark calculations from Ammonite
 - [kubukoz/sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.
 - [fomkin/korolev](https://github.com/fomkin/korolev) - Single Page Applications running on the server side.
