@@ -996,7 +996,6 @@
 - [int8/monte-carlo-tree-search](https://github.com/int8/monte-carlo-tree-search) - Monte carlo tree search in python
 - [ensime/ensime-vim](https://github.com/ensime/ensime-vim) - ENSIME for the Editor of the Beast (Vim)
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
-- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [aeroxis/sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
 - [manoloesparta/playlist.py](https://github.com/manoloesparta/playlist.py) - Spotify playlist updater made with python
 - [Ivo-Donchev/vim-react-goto-definition](https://github.com/Ivo-Donchev/vim-react-goto-definition) - Goto definition pluigin for React JS written in Python
@@ -1124,6 +1123,7 @@
 - [rustgd/collision-rs](https://github.com/rustgd/collision-rs) - A collision extension to cgmath
 - [d3lio/fmi-project-static-code-analyser](https://github.com/d3lio/fmi-project-static-code-analyser) - Static code analyser for a really tiny subset of JavaScript.
 - [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sunjay/rust-simple-game-dev-tutorial](https://github.com/sunjay/rust-simple-game-dev-tutorial) - Rust game development tutorial with specs ECS and SDL2
 - [callensm/wksp](https://github.com/callensm/wksp) - CLI to create templated workspaces using user-configured JSON files
 - [sindreij/willow](https://github.com/sindreij/willow) - Implementation of the Elm architecture in Rust
