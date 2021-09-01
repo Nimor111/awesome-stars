@@ -618,7 +618,6 @@
 - [edwinb/Idris2-boot](https://github.com/edwinb/Idris2-boot) - A dependently typed programming language, a successor to Idris
 - [kowainik/idris-patricia](https://github.com/kowainik/idris-patricia) - 🌋 Idris implementation of patricia tree
 - [gallais/idris-tparsec](https://github.com/gallais/idris-tparsec) - TParsec - Total Parser Combinators in Idris
-- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
 - [typedefs/typedefs](https://github.com/typedefs/typedefs) - Programming language agnostic type construction language based on polynomials.
 - [jcsmnt0/STLC](https://github.com/jcsmnt0/STLC) - Simply-typed lambda calculus in Idris
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
@@ -1236,6 +1235,7 @@
 ## Scheme 
 
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
+- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Shell 
