@@ -252,7 +252,7 @@
 ## Elixir 
 
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
-- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests with elixir
+- [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [lucperkins/nix-monorepo](https://github.com/lucperkins/nix-monorepo) - An illustration of how you might use Nix in a large, multi-language project and in accordance with best practices
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
 - [assert-value/assert_value_elixir](https://github.com/assert-value/assert_value_elixir) - ExUnit's assert on steroids that writes and updates tests for you
@@ -1293,6 +1293,7 @@
 
 ## TypeScript 
 
+- [Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) - Self-hosted YouTube downloader built on Material Design
 - [org-roam/org-roam-ui](https://github.com/org-roam/org-roam-ui) - A graphical frontend for exploring your org-roam Zettelkasten
 - [liamcain/obsidian-calendar-plugin](https://github.com/liamcain/obsidian-calendar-plugin) - Simple calendar widget for Obsidian.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
