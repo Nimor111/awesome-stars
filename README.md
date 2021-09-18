@@ -482,7 +482,6 @@
 - [VitorCBSB/HetrisV2](https://github.com/VitorCBSB/HetrisV2) - A guideline compliant Tetris clone made with Haskell.
 - [xmonad/xmonad-contrib](https://github.com/xmonad/xmonad-contrib) - Contributed modules for xmonad
 - [pmiddend/nixos-manager](https://github.com/pmiddend/nixos-manager) - Manage your NixOS packages and configuration via a simple, intuitive UI
-- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, one commit at a time.
 - [NorfairKing/autorecorder](https://github.com/NorfairKing/autorecorder) - An automatic declarative ASCIInema recorder
 - [kowainik/prolens](https://github.com/kowainik/prolens) - 👓 Profunctor based lightweight implementation of Lenses
 - [kowainik/cake-slayer](https://github.com/kowainik/cake-slayer) - 🍰🔪 Architecture of Haskell backend applications
@@ -823,6 +822,7 @@
 - [challenger-deep-theme/alacritty](https://github.com/challenger-deep-theme/alacritty) - Alacritty Theme
 - [kamadorueda/nixpkgs-db](https://github.com/kamadorueda/nixpkgs-db) - A database with packages from all versions, all commits and all channels.
 - [Dongryul-Kim/harvard_notes](https://github.com/Dongryul-Kim/harvard_notes) - Notes for courses taken at Harvard (2015--2019)
+- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learning Haskell by building a simple static blog generator, a book about Haskell.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - A curated list of emacs-lisp development resources
 - [hackersatcambridge/workshop-love2d](https://github.com/hackersatcambridge/workshop-love2d) - 
