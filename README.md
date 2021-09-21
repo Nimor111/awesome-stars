@@ -742,7 +742,6 @@
 - [josh-perry/peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE. :peach:
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
-- [challacade/legend-of-lua](https://github.com/challacade/legend-of-lua) - 
 - [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love)
 - [usysrc/love-boilerplate](https://github.com/usysrc/love-boilerplate) - Some boilerplate code with gamestates for game jams like ludum dare
 
