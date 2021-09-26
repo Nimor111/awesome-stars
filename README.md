@@ -885,6 +885,7 @@
 - [JanVanRyswyck/awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - Awesome online talks and screencasts
 - [therebelrobot/awesome-bootstrap](https://github.com/therebelrobot/awesome-bootstrap) - ✨  Awesome - A curated list of amazing Bootstrap tools and themes.
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
+- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - The content behind Elixir School
 - [itsgreggreg/elixir_quick_reference](https://github.com/itsgreggreg/elixir_quick_reference) - Quick reference for the Elixir programming language and standard library.
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 
@@ -1187,7 +1188,6 @@
 - [JKTKops/Write-You-a-Haskell-2](https://github.com/JKTKops/Write-You-a-Haskell-2) - A continuation of Stephen Diehl's Write You a Haskell
 - [Hacker0x01/hacker101](https://github.com/Hacker0x01/hacker101) - Source code for Hacker101.com - a free online web and mobile security class.
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
-- [elixirschool/elixirschool](https://github.com/elixirschool/elixirschool) - Premier destination to learn and master the Elixir programming language
 
 ## Scala 
 
