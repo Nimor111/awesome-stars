@@ -556,7 +556,7 @@
 - [haskell/stylish-haskell](https://github.com/haskell/stylish-haskell) - Haskell code prettifier
 - [ChrisPenner/astar-monad](https://github.com/ChrisPenner/astar-monad) - A smart A* search monad transformer which supports backtracking user-state!
 - [haskell-servant/example-servant-elm](https://github.com/haskell-servant/example-servant-elm) - Example for a web app with a servant backend and an elm frontend
-- [kowainik/co-log](https://github.com/kowainik/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
+- [co-log/co-log](https://github.com/co-log/co-log) - 📓 Flexible and configurable modern #Haskell logging framework
 - [typelead/eta](https://github.com/typelead/eta) - The Eta Programming Language, a dialect of Haskell on the JVM
 - [vicfryzel/xmonad-config](https://github.com/vicfryzel/xmonad-config) - My xmonad and xmobar configuration, plus necessary scripts to make things more usable.
 - [thma/LtuPatternFactory](https://github.com/thma/LtuPatternFactory) - Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns
