@@ -238,7 +238,7 @@
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
 - [leisim/awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages) - A curated list of awesome Flutter packages.
-- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+- [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dhall 
 
