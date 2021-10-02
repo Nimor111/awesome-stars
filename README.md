@@ -696,7 +696,7 @@
 - [erikras/redux-form-material-ui](https://github.com/erikras/redux-form-material-ui) - A set of wrapper components to facilitate using Material UI with Redux Form
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
-- [mui-org/material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+- [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
 - [supasate/connected-react-router](https://github.com/supasate/connected-react-router) - A Redux binding for React Router v4
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
@@ -837,7 +837,6 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@houstdav000]
 - [keon/awesome-bits](https://github.com/keon/awesome-bits) - :computer: A curated list of awesome bitwise operations and tricks
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) - A collection of Scala best practices
 - [samdroid-apps/nix-articles](https://github.com/samdroid-apps/nix-articles) - Some articles about getting started with Nix programming & configuration
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -1259,6 +1258,7 @@
 - [bennetthardwick/dotfiles](https://github.com/bennetthardwick/dotfiles) - Gruvbox inspired Arch Linux i3wm rice.
 - [ramsayleung/dotfiles](https://github.com/ramsayleung/dotfiles) - A shell script to install awesome command for *nix platform and set them up
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
