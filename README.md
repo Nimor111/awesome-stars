@@ -467,6 +467,7 @@
 
 ## Haskell 
 
+- [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [kowainik/issue-wanted](https://github.com/kowainik/issue-wanted) - 🏷 Web application to help beginners to start contributing into Haskell projects
 - [alpacaaa/zero-bullshit-haskell](https://github.com/alpacaaa/zero-bullshit-haskell) - Learn Haskell, without the bullshit.
 - [bkomuves/toy-language-server](https://github.com/bkomuves/toy-language-server) - Example language server (LSP) implementation for a toy language
