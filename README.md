@@ -283,6 +283,8 @@
 
 ## Emacs Lisp 
 
+- [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
+- [raxod502/prescient.el](https://github.com/raxod502/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
 - [Titan-C/org-cv](https://github.com/Titan-C/org-cv) - Org exporter for CV. Mirror of https://gitlab.com/Titan-C/org-cv
 - [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
