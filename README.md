@@ -741,6 +741,7 @@
 
 ## Lua 
 
+- [jessebraham/fennel-game-dev](https://github.com/jessebraham/fennel-game-dev) - Exploring 2D game development with some added Lispy-goodness
 - [Jeepzor/Platformer-tutorial](https://github.com/Jeepzor/Platformer-tutorial) - Source code for each episode on my tutorial series on how to make a platformer game in Löve (love2d).
 - [karai17/Simple-Tiled-Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled library for LÖVE
 - [josh-perry/peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE. :peach:
@@ -1243,6 +1244,7 @@
 
 ## Shell 
 
+- [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
 - [connermcd/notes](https://github.com/connermcd/notes) - Shell script for compiling pdf/html notes with pandoc.
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
