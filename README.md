@@ -447,6 +447,8 @@
 
 ## HTML 
 
+- [benmezger/blog](https://github.com/benmezger/blog) - Personal blog source
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book
 - [s4n7h0/hugo-theme-timeline](https://github.com/s4n7h0/hugo-theme-timeline) - Simple timeline theme for hugo
 - [portier/portier.github.io](https://github.com/portier/portier.github.io) - Website for Portier, an email-based, passwordless authentication that you can host yourself.
 - [marcin-rzeznicki/libjwt-typed](https://github.com/marcin-rzeznicki/libjwt-typed) - A Haskell implementation of JSON Web Token (JWT)
