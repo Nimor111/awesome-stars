@@ -167,6 +167,7 @@
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
 - [bradtraversy/react-tailwind-pixabay-gallery](https://github.com/bradtraversy/react-tailwind-pixabay-gallery) - Pixabay image gallery
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
+- [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
 - [ElixirCourse/blog](https://github.com/ElixirCourse/blog) - Blog for the Elixir Course
 - [gayanvirajith/harmony](https://github.com/gayanvirajith/harmony) - A responsive Jekyll theme.
 - [NikolaPavlov/Hack_Bulgaria_Django](https://github.com/NikolaPavlov/Hack_Bulgaria_Django) - Hack Bulgaria Django course
@@ -633,7 +634,6 @@
 - [ccrama/Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии" :running:
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [gilmore606/ure](https://github.com/gilmore606/ure) - the unRogueEngine
 - [javaee/jersey](https://github.com/javaee/jersey) - This is no longer the active Jersey repository. Please see the README.md
