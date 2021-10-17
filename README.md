@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [eliasdaler/imgui-sfml](https://github.com/eliasdaler/imgui-sfml) - Dear ImGui binding for use with SFML
@@ -167,7 +168,6 @@
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
 - [bradtraversy/react-tailwind-pixabay-gallery](https://github.com/bradtraversy/react-tailwind-pixabay-gallery) - Pixabay image gallery
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
-- [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
 - [ElixirCourse/blog](https://github.com/ElixirCourse/blog) - Blog for the Elixir Course
 - [gayanvirajith/harmony](https://github.com/gayanvirajith/harmony) - A responsive Jekyll theme.
 - [NikolaPavlov/Hack_Bulgaria_Django](https://github.com/NikolaPavlov/Hack_Bulgaria_Django) - Hack Bulgaria Django course
@@ -456,6 +456,7 @@
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [LordMathis/hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix) - Nix is a simple, minimal theme for Hugo
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
+- [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -634,6 +635,7 @@
 - [ccrama/Slide](https://github.com/ccrama/Slide) - Slide is an open sourced, ad free Reddit browser for Android
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
+- [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [gilmore606/ure](https://github.com/gilmore606/ure) - the unRogueEngine
 - [javaee/jersey](https://github.com/javaee/jersey) - This is no longer the active Jersey repository. Please see the README.md
@@ -1217,7 +1219,6 @@
 - [bkirwi/decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 - [wi101/zio-examples](https://github.com/wi101/zio-examples) - 
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
-- [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [krzemin/octopus](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 - [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
 - [mschuwalow/zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend) - Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe
