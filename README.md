@@ -662,7 +662,7 @@
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
 - [d3lio/mrend](https://github.com/d3lio/mrend) - A markdown presentation generator
 - [outline/outline](https://github.com/outline/outline) - The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.
-- [uwu-tech/Kind](https://github.com/uwu-tech/Kind) - A modern proof language
+- [kind-lang/Kind](https://github.com/kind-lang/Kind) - A modern proof language
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -745,6 +745,8 @@
 
 ## Lua 
 
+- [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
+- [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [jessebraham/fennel-game-dev](https://github.com/jessebraham/fennel-game-dev) - Exploring 2D game development with some added Lispy-goodness
@@ -1361,6 +1363,7 @@
 
 ## Vim script 
 
+- [mtth/scratch.vim](https://github.com/mtth/scratch.vim) - Unobtrusive scratch window
 - [vuciv/vim-bujo](https://github.com/vuciv/vim-bujo) - A minimalist task manager for vim.
 - [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
