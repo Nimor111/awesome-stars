@@ -1363,6 +1363,7 @@
 
 ## Vim script 
 
+- [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
 - [mtth/scratch.vim](https://github.com/mtth/scratch.vim) - Unobtrusive scratch window
 - [vuciv/vim-bujo](https://github.com/vuciv/vim-bujo) - A minimalist task manager for vim.
 - [0ihsan/neuron.vim](https://github.com/0ihsan/neuron.vim) - 📝 Manage your Zettelkasten in {n}vim.
