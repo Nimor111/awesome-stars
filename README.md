@@ -1002,6 +1002,7 @@
 - [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [lorenzodifuccia/safaribooks](https://github.com/lorenzodifuccia/safaribooks) - Download and generate EPUB of your favorite books from O'Reilly Learning (aka Safari Books Online) library.
+- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [Dvlv/Tkinter-By-Example](https://github.com/Dvlv/Tkinter-By-Example) - Learn Tkinter By Example - a free book
 - [lawsie/guizero](https://github.com/lawsie/guizero) - A Python 3 library to allow learners to quickly and easily create GUIs.
 - [gotcha/ipdb](https://github.com/gotcha/ipdb) - Integration of IPython pdb
@@ -1035,7 +1036,7 @@
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [pydanny/cookiecutter-django](https://github.com/pydanny/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+- [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [heroku/heroku-django-template](https://github.com/heroku/heroku-django-template) - A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
 - [pselle/django-rest-angular2-example](https://github.com/pselle/django-rest-angular2-example) - A simple example of a Django REST app + Angular2
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
@@ -1273,7 +1274,6 @@
 - [ramsayleung/dotfiles](https://github.com/ramsayleung/dotfiles) - A shell script to install awesome command for *nix platform and set them up
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
