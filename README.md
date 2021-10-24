@@ -498,7 +498,7 @@
 - [alexwl/haskell-code-explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases
 - [rkaippully/webgear](https://github.com/rkaippully/webgear) - Build composable, type-safe HTTP APIs in Haskell
 - [chshersh/chshersh.github.io](https://github.com/chshersh/chshersh.github.io) - :yellow_heart: My website
-- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries -- DSL for describing, serving, querying, mocking, documenting web applications and more!
+- [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [quickstrom/quickstrom](https://github.com/quickstrom/quickstrom) - High-confidence browser testing
 - [cdepillabout/pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
@@ -694,7 +694,6 @@
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
 - [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
-- [TowhidKashem/react-calendar](https://github.com/TowhidKashem/react-calendar) - Developer test to build a fully functional calendar with reminders using React and Redux in a short amount of time
 - [mathiasbynens/tpyo](https://github.com/mathiasbynens/tpyo) - A small script that enables you to make typos in JavaScript property names. Powered by ES2015 proxies + Levenshtein string distance.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
