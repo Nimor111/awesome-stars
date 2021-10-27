@@ -284,6 +284,8 @@
 
 ## Emacs Lisp 
 
+- [zweifisch/ob-http](https://github.com/zweifisch/ob-http) - make http request within org-mode babel
+- [mnewt/counsel-web](https://github.com/mnewt/counsel-web) - Search the Web using Ivy
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
 - [raxod502/prescient.el](https://github.com/raxod502/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
 - [Titan-C/org-cv](https://github.com/Titan-C/org-cv) - Org exporter for CV. Mirror of https://gitlab.com/Titan-C/org-cv
@@ -1136,7 +1138,7 @@
 - [m-r-hunt/beneath_the_sands](https://github.com/m-r-hunt/beneath_the_sands) - 
 - [rustgd/collision-rs](https://github.com/rustgd/collision-rs) - A collision extension to cgmath
 - [d3lio/fmi-project-static-code-analyser](https://github.com/d3lio/fmi-project-static-code-analyser) - Static code analyser for a really tiny subset of JavaScript.
-- [denoland/deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [sunjay/rust-simple-game-dev-tutorial](https://github.com/sunjay/rust-simple-game-dev-tutorial) - Rust game development tutorial with specs ECS and SDL2
 - [callensm/wksp](https://github.com/callensm/wksp) - CLI to create templated workspaces using user-configured JSON files
