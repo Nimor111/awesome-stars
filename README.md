@@ -284,6 +284,7 @@
 
 ## Emacs Lisp 
 
+- [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [zweifisch/ob-http](https://github.com/zweifisch/ob-http) - make http request within org-mode babel
 - [mnewt/counsel-web](https://github.com/mnewt/counsel-web) - Search the Web using Ivy
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
@@ -694,7 +695,7 @@
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [dozoisch/koa-react-full-example](https://github.com/dozoisch/koa-react-full-example) - Full example using Koa, React, Passport, Mongoose, Webpack, Mocha, Babel
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
-- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
+- [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [mathiasbynens/tpyo](https://github.com/mathiasbynens/tpyo) - A small script that enables you to make typos in JavaScript property names. Powered by ES2015 proxies + Levenshtein string distance.
 - [paularmstrong/normalizr](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema
