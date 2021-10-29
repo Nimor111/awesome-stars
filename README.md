@@ -459,7 +459,6 @@
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [LordMathis/hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix) - Nix is a simple, minimal theme for Hugo
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
-- [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [sovereign/sovereign](https://github.com/sovereign/sovereign) - A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.
 - [RayTracing/raytracing.github.io](https://github.com/RayTracing/raytracing.github.io) - Main Web Site (Online Books)
 - [andybrewer/mvp](https://github.com/andybrewer/mvp) - MVP.css — Minimalist stylesheet for HTML elements
@@ -1226,6 +1225,7 @@
 - [bkirwi/decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 - [wi101/zio-examples](https://github.com/wi101/zio-examples) - 
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
+- [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [krzemin/octopus](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 - [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
 - [mschuwalow/zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend) - Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe
