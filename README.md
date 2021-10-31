@@ -293,7 +293,7 @@
 - [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
 - [clojure-emacs/cider](https://github.com/clojure-emacs/cider) - The Clojure Interactive Development Environment that Rocks for Emacs
-- [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A collection of Clojure refactoring functions for Emacs
+- [clojure-emacs/clj-refactor.el](https://github.com/clojure-emacs/clj-refactor.el) - A CIDER extension that provides powerful commands for refactoring Clojure code.
 - [plexus/chemacs2](https://github.com/plexus/chemacs2) - Emacs version switcher, improved
 - [borkdude/flycheck-clj-kondo](https://github.com/borkdude/flycheck-clj-kondo) - Emacs integration for clj-kondo via flycheck
 - [vicrdguez/dendroam](https://github.com/vicrdguez/dendroam) - Bring Dendron features to Emacs org-roam
