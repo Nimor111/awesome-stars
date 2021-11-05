@@ -792,7 +792,7 @@
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [Shopify/comma](https://github.com/Shopify/comma) - 
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
-- [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - I fucking hate dotfiles.
+- [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [kalbasit/shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
@@ -1016,7 +1016,7 @@
 - [manoloesparta/playlist.py](https://github.com/manoloesparta/playlist.py) - Spotify playlist updater made with python
 - [Ivo-Donchev/vim-react-goto-definition](https://github.com/Ivo-Donchev/vim-react-goto-definition) - Goto definition pluigin for React JS written in Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
-- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python 3 and 2 (PEP 484)
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [vimalloc/flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [kennethlove/django-shapeshifter](https://github.com/kennethlove/django-shapeshifter) - A CBV to handle multiple forms in one view
 - [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
