@@ -284,6 +284,7 @@
 
 ## Emacs Lisp 
 
+- [suonlight/multi-vterm](https://github.com/suonlight/multi-vterm) - Managing multiple vterm buffers in Emacs
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [zweifisch/ob-http](https://github.com/zweifisch/ob-http) - make http request within org-mode babel
 - [mnewt/counsel-web](https://github.com/mnewt/counsel-web) - Search the Web using Ivy
