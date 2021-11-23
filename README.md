@@ -617,7 +617,6 @@
 - [dmjio/miso](https://github.com/dmjio/miso) - :ramen: A tasty Haskell front-end framework
 - [NJichev/lambda-calculus-course](https://github.com/NJichev/lambda-calculus-course) - 
 - [ekmett/lens](https://github.com/ekmett/lens) - Lenses, Folds, and Traversals - Join us on freenode #haskell-lens
-- [RadoRado/HUnit-Test-Generator](https://github.com/RadoRado/HUnit-Test-Generator) - A small Haskell program that reads a dead-simple DSL and generates proper HUnit tests
 - [HackBulgaria/Haskell-1](https://github.com/HackBulgaria/Haskell-1) - Functional Programming with Haskell
 
 ## Idris 
