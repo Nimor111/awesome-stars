@@ -71,6 +71,7 @@
 
 ## C 
 
+- [andrewrk/tetris](https://github.com/andrewrk/tetris) - A simple tetris clone written in zig programming language.
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
@@ -680,7 +681,7 @@
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
 - [bahmutov/start-server-and-test](https://github.com/bahmutov/start-server-and-test) - Starts server, waits for URL, then runs test command; when the tests end, shuts down server
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more
-- [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+- [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [yhenni1989/ReactNativeAuth](https://github.com/yhenni1989/ReactNativeAuth) - Mobile user authentication flow with React Native, Expo, and AWS Amplify: Sign In, Sign Up, Confirm Sign Up, Forget Password, Reset Password.
 - [SAP-archive/cloud-sample-spaceflight-node](https://github.com/SAP-archive/cloud-sample-spaceflight-node) - Build node applications with the application programming model on SAP Cloud Platform.
