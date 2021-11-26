@@ -793,7 +793,7 @@
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [DavHau/django-nixos](https://github.com/DavHau/django-nixos) - NixOS/NixOps configuration for Django
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
-- [Shopify/comma](https://github.com/Shopify/comma) - 
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
