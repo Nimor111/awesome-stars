@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [OpenMW/openmw](https://github.com/OpenMW/openmw) - OpenMW is an open-source open-world RPG game engine that supports playing Morrowind. Main repo and issue tracker can be found here: https://gitlab.com/OpenMW/openmw/
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -354,7 +355,6 @@
 - [ananthakumaran/tide](https://github.com/ananthakumaran/tide) - Tide - TypeScript Interactive Development Environment for Emacs
 - [asok/projectile-rails](https://github.com/asok/projectile-rails) - Emacs Rails mode based on projectile
 - [ejmr/love-minor-mode](https://github.com/ejmr/love-minor-mode) - An Emacs minor mode for LÖVE
-- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [bbatsov/helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [twlz0ne/elpl](https://github.com/twlz0ne/elpl) - Provides a simple interface to evaluating Emacs Lisp expressions but without contaminating current Emacs.
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
@@ -477,6 +477,7 @@
 
 ## Haskell 
 
+- [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
 - [kowainik/issue-wanted](https://github.com/kowainik/issue-wanted) - 🏷 Web application to help beginners to start contributing into Haskell projects
@@ -829,6 +830,7 @@
 ## Org 
 
 - [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs
+- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 
 ## Others 
 
