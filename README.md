@@ -897,7 +897,6 @@
 - [trstringer/cli-debugging-cheatsheets](https://github.com/trstringer/cli-debugging-cheatsheets) - :fire: Collection of command-line debugging cheatsheets for multiple languages and runtimes
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 - [jonascarpay/apecs-physics](https://github.com/jonascarpay/apecs-physics) - 2D physics and rendering for apecs
 - [snaptoken/kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) - build your own text editor
 - [wsargent/docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet) - Docker Cheat Sheet
@@ -1371,6 +1370,7 @@
 - [microsoft/TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter) - A starter template for TypeScript and React with a detailed README describing how to use the two together.
 - [Lemoncode/react-typescript-samples](https://github.com/Lemoncode/react-typescript-samples) - The goal of this project is to provide a set of simple samples, providing and step by step guide to start working with React and Typescript.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2021
 
 ## Vala 
 
