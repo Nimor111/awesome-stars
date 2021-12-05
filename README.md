@@ -779,6 +779,7 @@
 
 ## Nix 
 
+- [kubukoz/flake-templates](https://github.com/kubukoz/flake-templates) - 
 - [guibou/nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
 - [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [masaeedu/nix-optics](https://github.com/masaeedu/nix-optics) - 
