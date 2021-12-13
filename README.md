@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Agda](#agda)
   - [Assembly](#assembly)
   - [C](#c)
   - [C#](#c#)
@@ -62,6 +63,10 @@
   - [XSLT](#xslt)
   - [YASnippet](#yasnippet)
   - [Zig](#zig)
+
+## Agda 
+
+- [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
 
 ## Assembly 
 
