@@ -1453,7 +1453,6 @@
 ## Zig 
 
 - [ducdetronquito/http](https://github.com/ducdetronquito/http) - HTTP core types for Zig 🦴
-- [dbandstra/oxid](https://github.com/dbandstra/oxid) - Arcade-style game that runs natively or in the browser
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
