@@ -969,7 +969,7 @@
 - [adkelley/javascript-to-purescript](https://github.com/adkelley/javascript-to-purescript) - Tutorial Series - Make the Leap from Javascript to PureScript
 - [purescript-contrib/purescript-parsing](https://github.com/purescript-contrib/purescript-parsing) - A parser combinator library based on Parsec
 - [purescript-contrib/purescript-profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses) - Pure profunctor lenses
-- [spicydonuts/purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
+- [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
 - [JordanMartinez/purescript-jordans-reference](https://github.com/JordanMartinez/purescript-jordans-reference) - Learn PureScript with this "clone and play" repository
 - [jaspervdj/beeraffe](https://github.com/jaspervdj/beeraffe) - 
 - [purescript-contrib/purescript-routing](https://github.com/purescript-contrib/purescript-routing) - A clean, type-safe routing library for PureScript.
