@@ -580,7 +580,7 @@
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [Holmusk/three-layer](https://github.com/Holmusk/three-layer) - :three: :cake: Architecture of the Haskell web applications
 - [parsonsmatt/servant-persistent](https://github.com/parsonsmatt/servant-persistent) - A brief example of Servant with Persistent
-- [soupi/rfc](https://github.com/soupi/rfc) - My slides and compilation of resources in a repo that is too popular to rename.
+- [soupi/rfc](https://github.com/soupi/rfc) - My slides and compilation of resources.
 - [ChrisPenner/lens-regex-pcre](https://github.com/ChrisPenner/lens-regex-pcre) - Text lenses using PCRE regexes
 - [rainbyte/frag](https://github.com/rainbyte/frag) - Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong
 - [purescript/spago](https://github.com/purescript/spago) - 🍝 PureScript package manager and build tool powered by Dhall and package-sets
