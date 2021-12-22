@@ -317,7 +317,7 @@
 - [DarwinAwardWinner/with-simulated-input](https://github.com/DarwinAwardWinner/with-simulated-input) - Test your interactive elisp functions non-interactively!
 - [coldnew/eshell-autojump](https://github.com/coldnew/eshell-autojump) - autojump command for Eshell
 - [atheriel/org-clock-csv](https://github.com/atheriel/org-clock-csv) - Export Emacs org-mode clock entries to CSV format.
-- [howardabrams/demo-it](https://github.com/howardabrams/demo-it) - An Emacs package for running demonstrations and presentations from within Emacs.
+- [howardabrams/demo-it](https://github.com/howardabrams/demo-it) - An Emacs package for running demonstrations, screencasts and presentations from within Emacs.
 - [millejoh/emacs-ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook) - Jupyter notebook client in Emacs
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [abo-abo/swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
