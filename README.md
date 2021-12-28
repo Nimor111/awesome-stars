@@ -994,7 +994,7 @@
 - [ingolemo/python-lenses](https://github.com/ingolemo/python-lenses) - A python lens library for manipulating deeply nested immutable structures
 - [orsinium-labs/eff](https://github.com/orsinium-labs/eff) - Python library to work with algebraic effects
 - [dantium/django-docker-tailwind](https://github.com/dantium/django-docker-tailwind) - A Cookiecutter Django project template that uses Tailwind CSS, Wagtail CMS and works with Docker.
-- [bartTC/dpaste](https://github.com/bartTC/dpaste) - The Django project driving dpaste.org
+- [DarrenOfficial/dpaste](https://github.com/DarrenOfficial/dpaste) - The Django project driving dpaste.org
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [Mic92/nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - Review pull-requests on https://github.com/NixOS/nixpkgs
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.
