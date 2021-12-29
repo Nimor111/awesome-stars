@@ -641,7 +641,7 @@
 ## Java 
 
 - [PhilipAtanassov/stronzo](https://github.com/PhilipAtanassov/stronzo) - 
-- [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide) - Slide is an open sourced, ad free Reddit browser for Android
+- [Haptic-Apps/Slide](https://github.com/Haptic-Apps/Slide) - Slide is an open-source, ad-free Reddit browser for Android.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
