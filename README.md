@@ -633,6 +633,7 @@
 - [edwinb/Idris2-boot](https://github.com/edwinb/Idris2-boot) - A dependently typed programming language, a successor to Idris
 - [kowainik/idris-patricia](https://github.com/kowainik/idris-patricia) - 🌋 Idris implementation of patricia tree
 - [gallais/idris-tparsec](https://github.com/gallais/idris-tparsec) - TParsec - Total Parser Combinators in Idris
+- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
 - [typedefs/typedefs](https://github.com/typedefs/typedefs) - Programming language agnostic type construction language based on polynomials.
 - [jcsmnt0/STLC](https://github.com/jcsmnt0/STLC) - Simply-typed lambda calculus in Idris
 - [joaomilho/awesome-idris](https://github.com/joaomilho/awesome-idris) - 𝛌 Awesome Idris resources
@@ -801,7 +802,6 @@
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [DavHau/django-nixos](https://github.com/DavHau/django-nixos) - NixOS/NixOps configuration for Django
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
-- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
@@ -1262,7 +1262,6 @@
 ## Scheme 
 
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-- [mmhelloworld/idris-jvm](https://github.com/mmhelloworld/idris-jvm) - JVM bytecode back end for Idris
 - [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Shell 
@@ -1280,6 +1279,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [ar1a/dotfiles](https://github.com/ar1a/dotfiles) - My dotfiles
 - [Fmstrat/gam](https://github.com/Fmstrat/gam) - GitHub Application Manager
+- [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [chisui/zsh-nix-shell](https://github.com/chisui/zsh-nix-shell) - zsh plugin that lets you use zsh in nix-shell shells.
