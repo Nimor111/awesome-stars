@@ -718,7 +718,6 @@
 - [SAP/openui5](https://github.com/SAP/openui5) - OpenUI5 lets you build enterprise-ready web applications, responsive to all devices, running on almost any browser of your choice.
 - [styled-system/styled-system](https://github.com/styled-system/styled-system) - ⬢ Style props for rapid UI development
 - [Mockgoose/Mockgoose](https://github.com/Mockgoose/Mockgoose) - THIS PACKAGE IS NOW DEPRECATED. Consider using mongodb-memory-server instead
-- [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [kolodny/exercises](https://github.com/kolodny/exercises) - Some basic javascript coding challenges and interview questions
 - [iproduct/course-node-express-react](https://github.com/iproduct/course-node-express-react) - Fullstack Application Development with Node.js + Express.js + React.js
 - [jmcooper/angular2-fundamentals-files](https://github.com/jmcooper/angular2-fundamentals-files) - 
@@ -1218,6 +1217,7 @@
 
 ## Scala 
 
+- [gvolpe/trading](https://github.com/gvolpe/trading) - 💱 Trading application that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
 - [fthomas/refined](https://github.com/fthomas/refined) - Refinement types for Scala
 - [alexarchambault/ammonite-spark](https://github.com/alexarchambault/ammonite-spark) - Run spark calculations from Ammonite
