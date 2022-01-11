@@ -701,7 +701,6 @@
 - [SAP/fundamental-react](https://github.com/SAP/fundamental-react) - React implementation of the reusable component library designed in Fundamental Library Styles
 - [ondras/rot.js](https://github.com/ondras/rot.js) - ROguelike Toolkit in JavaScript. Cool dungeon-related stuff, interactive manual, documentation, tests!
 - [dozoisch/koa-react-full-example](https://github.com/dozoisch/koa-react-full-example) - Full example using Koa, React, Passport, Mongoose, Webpack, Mocha, Babel
-- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [reactstrap/reactstrap](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 5 components
 - [RockstarLang/rockstar](https://github.com/RockstarLang/rockstar) - The Rockstar programming language specification
 - [mathiasbynens/tpyo](https://github.com/mathiasbynens/tpyo) - A small script that enables you to make typos in JavaScript property names. Powered by ES2015 proxies + Levenshtein string distance.
@@ -1365,6 +1364,7 @@
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and fully-featured Node.Js web framework based on TypeScript. :rocket:.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
+- [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [curveball/core](https://github.com/curveball/core) - The Curveball framework is a TypeScript framework for node.js with support for modern HTTP features.
 - [piotrwitek/react-redux-typescript-webpack-starter](https://github.com/piotrwitek/react-redux-typescript-webpack-starter) - React / Redux / Typescript / Webpack - Starter (optimized for performance)
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
