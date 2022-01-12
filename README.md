@@ -1265,7 +1265,7 @@
 
 ## Shell 
 
-- [rockerbacon/modorganizer2-linux-installer](https://github.com/rockerbacon/modorganizer2-linux-installer) - Plug'n'Play Lutris installers for Mod Organizer 2 and Vortex
+- [rockerbacon/modorganizer2-linux-installer](https://github.com/rockerbacon/modorganizer2-linux-installer) - An easy-to-use Mod Organizer 2 installer for Linux
 - [expo/turtle-cli-example](https://github.com/expo/turtle-cli-example) - Turtle CLI usage example (CircleCI & Travis CI)
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
 - [sstallion/vimwiki-skel](https://github.com/sstallion/vimwiki-skel) - Skeleton for seeding new Vimwiki instances
