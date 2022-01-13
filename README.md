@@ -119,7 +119,7 @@
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
-- [eliasdaler/imgui-sfml](https://github.com/eliasdaler/imgui-sfml) - Dear ImGui binding for use with SFML
+- [eliasdaler/imgui-sfml](https://github.com/eliasdaler/imgui-sfml) - Dear ImGui backend for use with SFML
 - [PfAndrey/supermariohd](https://github.com/PfAndrey/supermariohd) - Cross-platform HD remake of Super Mario Bros (NES, 1985) with original game mechanics
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [timbod7/adl](https://github.com/timbod7/adl) - ADL (Algebraic Data Language)
