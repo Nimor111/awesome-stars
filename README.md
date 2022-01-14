@@ -1216,7 +1216,7 @@
 
 ## Scala 
 
-- [gvolpe/trading](https://github.com/gvolpe/trading) - 💱 Trading application that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)
+- [gvolpe/trading](https://github.com/gvolpe/trading) - 💱 Trading application written in Scala 3 that showcases an Event-Driven Architecture (EDA) and Functional Programming (FP)
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect) - The pure asynchronous runtime for Scala
 - [fthomas/refined](https://github.com/fthomas/refined) - Refinement types for Scala
 - [alexarchambault/ammonite-spark](https://github.com/alexarchambault/ammonite-spark) - Run spark calculations from Ammonite
