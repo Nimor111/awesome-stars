@@ -673,7 +673,7 @@
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
 - [d3lio/mrend](https://github.com/d3lio/mrend) - A markdown presentation generator
-- [kind-lang/Kind](https://github.com/kind-lang/Kind) - A modern proof language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A modern proof language
 - [klaussinani/taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -749,6 +749,7 @@
 ## Kotlin 
 
 - [orgzly/orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
+- [DimitarPetrov/stegify-flutter-plugin](https://github.com/DimitarPetrov/stegify-flutter-plugin) - Flutter plugin for steganography encoding and decoding files within an image using stegify API
 - [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) - Kotlin workshop
 
 ## Lua 
@@ -1071,7 +1072,6 @@
 - [ttscoff/mdless](https://github.com/ttscoff/mdless) - 
 - [qcam/3llo](https://github.com/qcam/3llo) - 3llo - Trello interactive CLI aplication
 - [remi/teamocil](https://github.com/remi/teamocil) - There's no I in Teamocil. At least not where you think. Teamocil is a simple tool used to automatically create windows and panes in tmux with YAML files.
-- [DimitarPetrov/stegify-flutter-plugin](https://github.com/DimitarPetrov/stegify-flutter-plugin) - Flutter plugin for steganography encoding and decoding files within an image using stegify API
 - [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
 - [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 - [sinatra/sinatra](https://github.com/sinatra/sinatra) - Classy web-development dressed in a DSL (official / canonical repo)
