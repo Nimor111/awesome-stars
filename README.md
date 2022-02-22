@@ -262,7 +262,7 @@
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [lucperkins/nix-monorepo](https://github.com/lucperkins/nix-monorepo) - An illustration of how you might use Nix in a large, multi-language project and in accordance with best practices
-- [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
+- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
 - [assert-value/assert_value_elixir](https://github.com/assert-value/assert_value_elixir) - ExUnit's assert on steroids that writes and updates tests for you
 - [elixirs/faker](https://github.com/elixirs/faker) - Faker is a pure Elixir library for generating fake data.
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
@@ -1224,7 +1224,7 @@
 - [alexarchambault/ammonite-spark](https://github.com/alexarchambault/ammonite-spark) - Run spark calculations from Ammonite
 - [kubukoz/sup](https://github.com/kubukoz/sup) - Composable, purely functional healthchecks in Scala.
 - [fomkin/korolev](https://github.com/fomkin/korolev) - Single Page Applications running on the server side.
-- [shadaj/scalapy](https://github.com/shadaj/scalapy) - Use the world of Python from the comfort of Scala!
+- [scalapy/scalapy](https://github.com/scalapy/scalapy) - Use the world of Python from the comfort of Scala!
 - [typelevel/cats-parse](https://github.com/typelevel/cats-parse) - A parsing library for the cats ecosystem
 - [optics-dev/Monocle](https://github.com/optics-dev/Monocle) - Optics library for Scala
 - [topshell-language/topshell](https://github.com/topshell-language/topshell) - TopShell - a purely functional, reactive scripting language
