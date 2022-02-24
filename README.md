@@ -136,7 +136,6 @@
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [solodon4/Mach7](https://github.com/solodon4/Mach7) - Functional programming style pattern-matching library for C++
-- [A-Ribeiro/OpenGLStarter](https://github.com/A-Ribeiro/OpenGLStarter) - C/C++ game, math and multimedia framework. It is written to work with OpenGL, but has several other implementations as: SIMD vector math, threads, timers, video, etc... Compatible with: MacOS X, Linux, Windows and Rasberry Pi (Raspbian) .
 - [CppCon/CppCon2018](https://github.com/CppCon/CppCon2018) - Slides and other materials from CppCon 2018
 - [SofiaCPP/IPL](https://github.com/SofiaCPP/IPL) - Implementation of Programming Languages course
 - [JoeyDeVries/Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine
