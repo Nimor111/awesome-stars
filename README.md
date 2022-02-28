@@ -258,7 +258,7 @@
 
 ## Elixir 
 
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
 - [elixir-wallaby/wallaby](https://github.com/elixir-wallaby/wallaby) - Concurrent browser tests for your Elixir web apps.
 - [lucperkins/nix-monorepo](https://github.com/lucperkins/nix-monorepo) - An illustration of how you might use Nix in a large, multi-language project and in accordance with best practices
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
