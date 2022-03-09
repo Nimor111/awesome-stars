@@ -336,7 +336,7 @@
 - [challenger-deep-theme/emacs](https://github.com/challenger-deep-theme/emacs) - Emacs Theme
 - [skeeto/elfeed](https://github.com/skeeto/elfeed) - An Emacs web feeds client
 - [Fuco1/dired-hacks](https://github.com/Fuco1/dired-hacks) - Collection of useful dired additions
-- [Manoj321/elfeed-dashboard](https://github.com/Manoj321/elfeed-dashboard) - A frontend for elfeed
+- [manojm321/elfeed-dashboard](https://github.com/manojm321/elfeed-dashboard) - A frontend for elfeed
 - [iqbalansari/restart-emacs](https://github.com/iqbalansari/restart-emacs) - A simple emacs package to restart emacs from within emacs
 - [alphapapa/org-super-agenda](https://github.com/alphapapa/org-super-agenda) - Supercharge your Org daily/weekly agenda by grouping items
 - [godotengine/emacs-gdscript-mode](https://github.com/godotengine/emacs-gdscript-mode) - An Emacs package to get GDScript support and syntax highlighting.
