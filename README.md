@@ -416,7 +416,6 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [DimitarPetrov/printracer](https://github.com/DimitarPetrov/printracer) - 🔎🐛 Golang fmt.Println debugging and tracing tool capable of visualising function invocation paths.
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [kyma-incubator/compass](https://github.com/kyma-incubator/compass) - A flexible and easy way to register, manage and group your applications
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
@@ -672,6 +671,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
+- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
 - [d3lio/mrend](https://github.com/d3lio/mrend) - A markdown presentation generator
 - [Kindelia/Kind](https://github.com/Kindelia/Kind) - A modern proof language
