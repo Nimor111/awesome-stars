@@ -429,6 +429,7 @@
 - [cc2k19/go-tin](https://github.com/cc2k19/go-tin) - New social network developed for a university project
 - [ataleksandrov/Fractal-Generator](https://github.com/ataleksandrov/Fractal-Generator) - A program for visualizing the Mandelbrot set, defined by F(Z) = е^cos(C*Z)
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer
 - [dennwc/dom](https://github.com/dennwc/dom) - DOM library for Go and WASM
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [kubernetes-sigs/go-open-service-broker-client](https://github.com/kubernetes-sigs/go-open-service-broker-client) - A golang client for service brokers implementing the Open Service Broker API
@@ -683,7 +684,6 @@
 - [CodingTrain/website](https://github.com/CodingTrain/website) - The train engine powering the Coding Train website
 - [strapi/buffet](https://github.com/strapi/buffet) - Buffet.js — React Components Library made with styled-components
 - [cohomolo-gy/haskell-resources](https://github.com/cohomolo-gy/haskell-resources) - A List of Foundational Haskell Papers
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Command-line tool and terminal JSON viewer 🔥
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [mholt/curl-to-go](https://github.com/mholt/curl-to-go) - Convert curl commands to Go code in your browser
 - [mholt/json-to-go](https://github.com/mholt/json-to-go) - Translates JSON into a Go type in your browser instantly (original)
@@ -785,6 +785,7 @@
 
 ## Nix 
 
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
 - [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
 - [kubukoz/flake-templates](https://github.com/kubukoz/flake-templates) - 
 - [guibou/nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
