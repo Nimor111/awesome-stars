@@ -484,6 +484,7 @@
 
 ## Haskell 
 
+- [haskellari/postgresql-simple](https://github.com/haskellari/postgresql-simple) - Mid-level client library for accessing PostgreSQL from Haskell
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - A reliable, user-friendly Plain Text Accounting tool with command line, terminal and web interfaces.
 - [haskell-servant/servant-blaze](https://github.com/haskell-servant/servant-blaze) - 
 - [purenix-org/purenix](https://github.com/purenix-org/purenix) - Nix backend for PureScript.  Transpile PureScript code to Nix.
