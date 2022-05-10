@@ -295,7 +295,7 @@
 - [zweifisch/ob-http](https://github.com/zweifisch/ob-http) - make http request within org-mode babel
 - [mnewt/counsel-web](https://github.com/mnewt/counsel-web) - Search the Web using Ivy
 - [Trevoke/org-gtd.el](https://github.com/Trevoke/org-gtd.el) - A package for using GTD using org-mode
-- [raxod502/prescient.el](https://github.com/raxod502/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
+- [radian-software/prescient.el](https://github.com/radian-software/prescient.el) - ☄️ Simple but effective sorting and filtering for Emacs.
 - [Titan-C/org-cv](https://github.com/Titan-C/org-cv) - Org exporter for CV. Mirror of https://gitlab.com/Titan-C/org-cv
 - [hylang/hy-mode](https://github.com/hylang/hy-mode) - Hy mode for Emacs
 - [seagle0128/all-the-icons-ivy-rich](https://github.com/seagle0128/all-the-icons-ivy-rich) - Better experience with icons for ivy
@@ -375,8 +375,8 @@
 - [jethrokuan/dots](https://github.com/jethrokuan/dots) - tracking my dotfiles
 - [agzam/exwm-edit](https://github.com/agzam/exwm-edit) - Edit mode for EXWM
 - [safijari/stupid-spacemacs](https://github.com/safijari/stupid-spacemacs) - 
-- [raxod502/el-patch](https://github.com/raxod502/el-patch) - ✨ Future-proof your Emacs Lisp customizations!
-- [raxod502/radian](https://github.com/raxod502/radian) - 🍉 Dotfiles that marry elegance and practicality.
+- [radian-software/el-patch](https://github.com/radian-software/el-patch) - ✨ Future-proof your Emacs Lisp customizations!
+- [radian-software/radian](https://github.com/radian-software/radian) - 🍉 Dotfiles that marry elegance and practicality.
 - [mwfogleman/.emacs.d](https://github.com/mwfogleman/.emacs.d) - My emacs configuration.
 - [hakanserce/org-drill](https://github.com/hakanserce/org-drill) - [Under Development] An Emacs learning system built by forking the original org-drill from https://bitbucket.org/eeeickythump/org-drill
 - [gizmomogwai/org-kanban](https://github.com/gizmomogwai/org-kanban) - Kanban table for org-mode
