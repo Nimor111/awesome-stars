@@ -493,7 +493,6 @@
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
 - [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
-- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [qfpl/reflex-realworld-example](https://github.com/qfpl/reflex-realworld-example) - 
 - [kowainik/eio](https://github.com/kowainik/eio) - 🎯 IO with Exceptions tracked on the type-level
 - [stoeffel/haskell-simple-dsl-examples](https://github.com/stoeffel/haskell-simple-dsl-examples) - Simple examples on how to implement a DSL in Haskell.
@@ -1085,6 +1084,7 @@
 
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
 - [marcusbuffett/bevy_snake](https://github.com/marcusbuffett/bevy_snake) - Clone of the snake game, with Bevy
+- [BrianHicks/nix-script](https://github.com/BrianHicks/nix-script) - write scripts in compiled languages that run in the nix ecosystem, with no separate build step
 - [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) - Rust bindings to libcurl
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [leftwm/leftwm](https://github.com/leftwm/leftwm) - LeftWM - A tiling window manager for Adventurers
