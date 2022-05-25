@@ -230,7 +230,7 @@
 - [hivedb/hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart.
 - [DimitarPetrov/stegify-mobile](https://github.com/DimitarPetrov/stegify-mobile) - 📱Mobile application for LSB steganography, capable of hiding any file within an image.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-- [flame-engine/flame](https://github.com/flame-engine/flame) - A minimalist Flutter game engine
+- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine
 - [bluefireteam/photo_view](https://github.com/bluefireteam/photo_view) - 📸 Easy to use yet very customizable zoomable image widget for Flutter, Photo View provides a gesture sensitive zoomable widget. Photo View is largely used to show interacive images and other stuff suc
 - [DimitarPetrov/study-snap](https://github.com/DimitarPetrov/study-snap) - 📓📲 Flutter app for managing study materials in form of photos.
 - [kalismeras61/flutter_page_transition](https://github.com/kalismeras61/flutter_page_transition) - This is Flutter Page Transition Package
