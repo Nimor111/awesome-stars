@@ -358,6 +358,7 @@
 - [ananthakumaran/tide](https://github.com/ananthakumaran/tide) - Tide - TypeScript Interactive Development Environment for Emacs
 - [asok/projectile-rails](https://github.com/asok/projectile-rails) - Emacs Rails mode based on projectile
 - [ejmr/love-minor-mode](https://github.com/ejmr/love-minor-mode) - An Emacs minor mode for LÖVE
+- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [bbatsov/helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [twlz0ne/elpl](https://github.com/twlz0ne/elpl) - Provides a simple interface to evaluating Emacs Lisp expressions but without contaminating current Emacs.
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
@@ -439,7 +440,7 @@
 - [mmcloughlin/avo](https://github.com/mmcloughlin/avo) - Generate x86 Assembly with Go
 - [DimitarPetrov/stegify](https://github.com/DimitarPetrov/stegify) - 🔍 Go tool for LSB steganography, capable of hiding any file within an image.
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
-- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - A dead simple 2D game library for Go
+- [hajimehoshi/ebiten](https://github.com/hajimehoshi/ebiten) - Ebitengine - A dead simple 2D game library for Go
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [glycerine/zygomys](https://github.com/glycerine/zygomys) - Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.
 - [faiface/pixel](https://github.com/faiface/pixel) - A hand-crafted 2D game library in Go
@@ -838,7 +839,6 @@
 ## Org 
 
 - [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs
-- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 
 ## Others 
 
