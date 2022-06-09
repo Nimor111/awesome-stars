@@ -66,6 +66,7 @@
 ## Agda 
 
 - [alhassy/AgdaCheatSheet](https://github.com/alhassy/AgdaCheatSheet) - Basics of the dependently-typed functional language Agda ^_^
+- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 
 ## Assembly 
 
@@ -478,7 +479,6 @@
 - [scala-fmi/scala-fmi-2019](https://github.com/scala-fmi/scala-fmi-2019) - Course materials for Functional Programming in Scala, taught in Sofia University
 - [haskell-org/summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [lispgames/lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
-- [plfa/plfa.github.io](https://github.com/plfa/plfa.github.io) - An introduction to programming language theory in Agda
 - [6desislava6/R-statistics-2017](https://github.com/6desislava6/R-statistics-2017) - 
 
 ## Haskell 
@@ -492,7 +492,7 @@
 - [bkomuves/toy-language-server](https://github.com/bkomuves/toy-language-server) - Example language server (LSP) implementation for a toy language
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
-- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware; For current development, see https://github.com/srid/ema/pull/81
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [qfpl/reflex-realworld-example](https://github.com/qfpl/reflex-realworld-example) - 
 - [kowainik/eio](https://github.com/kowainik/eio) - 🎯 IO with Exceptions tracked on the type-level
@@ -733,7 +733,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [remoteinterview/compilebox](https://github.com/remoteinterview/compilebox) - Compile and run user-submitted code in a docker based sandbox.
-- [codemirror/CodeMirror](https://github.com/codemirror/CodeMirror) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
 - [HackBulgaria/Frontend-JavaScript-1](https://github.com/HackBulgaria/Frontend-JavaScript-1) - The repository for the Frontend JavaScript course in Hack Bulgaria
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
@@ -769,7 +769,7 @@
 - [Jeepzor/Platformer-tutorial](https://github.com/Jeepzor/Platformer-tutorial) - Source code for each episode on my tutorial series on how to make a platformer game in Löve (love2d).
 - [karai17/Simple-Tiled-Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled library for LÖVE
 - [josh-perry/peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE. :peach:
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
 - [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love)
 - [usysrc/love-boilerplate](https://github.com/usysrc/love-boilerplate) - Some boilerplate code with gamestates for game jams like ludum dare
