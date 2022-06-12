@@ -508,7 +508,7 @@
 - [Mushy-pea/Game-Dangerous](https://github.com/Mushy-pea/Game-Dangerous) - A 3D game engine written in Haskell and OpenGL Shading Language.  The goal is to make a 3D tribute to ZZT, including a game creation system.
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell) - 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests
 - [alexwl/haskell-code-explorer](https://github.com/alexwl/haskell-code-explorer) - Web application for exploring and understanding Haskell codebases
-- [rkaippully/webgear](https://github.com/rkaippully/webgear) - Build composable, type-safe HTTP APIs in Haskell
+- [rkaippully/webgear](https://github.com/rkaippully/webgear) - Moved to https://github.com/haskell-webgear/webgear
 - [chshersh/chshersh.github.io](https://github.com/chshersh/chshersh.github.io) - :yellow_heart: My website
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [quickstrom/quickstrom](https://github.com/quickstrom/quickstrom) - High-confidence browser testing
@@ -812,7 +812,7 @@
 - [peel/dotfiles](https://github.com/peel/dotfiles) - well-tailored NixOS & nix-darwin dotfiles
 - [tbenst/purescript-nix-example](https://github.com/tbenst/purescript-nix-example) - Build a simple Halogen app using Nix
 - [kalbasit/shabka](https://github.com/kalbasit/shabka) - Shabka. Declaritive description of my network, workstations and servers.
-- [utdemir/dotfiles](https://github.com/utdemir/dotfiles) - Comprehensive configurations of my NixOS workstations and home server.
+- [utdemir/dotfiles-nix](https://github.com/utdemir/dotfiles-nix) - Comprehensive configurations of my NixOS workstations and home server.
 - [styx-static/styx](https://github.com/styx-static/styx) - Static site generator in Nix expression language.
 - [utdemir/hs-nix-template](https://github.com/utdemir/hs-nix-template) - A Haskell project template that uses Nix and comes with cabal-install, ghcid, ormolu, haskell-language-server and more.
 - [dtulig/rust-gfx-examples](https://github.com/dtulig/rust-gfx-examples) - OpenGL examples in Rust using the gfx-rs library.
