@@ -733,7 +733,7 @@
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [remoteinterview/compilebox](https://github.com/remoteinterview/compilebox) - Compile and run user-submitted code in a docker based sandbox.
-- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor
+- [codemirror/codemirror5](https://github.com/codemirror/codemirror5) - In-browser code editor (version 5, legacy)
 - [HackBulgaria/Frontend-JavaScript-1](https://github.com/HackBulgaria/Frontend-JavaScript-1) - The repository for the Frontend JavaScript course in Hack Bulgaria
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 
