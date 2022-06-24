@@ -553,7 +553,7 @@
 - [stolyaroleh/grafanix](https://github.com/stolyaroleh/grafanix) - Visualize your Nix dependencies!
 - [TheLostLambda/glossweeper](https://github.com/TheLostLambda/glossweeper) - A minesweeper clone written with Haskell in Gloss
 - [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
-- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by Ema)
+- [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kowainik/tomland](https://github.com/kowainik/tomland) - 🏝 Bidirectional TOML serialization
 - [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell) - Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
