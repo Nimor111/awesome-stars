@@ -665,7 +665,6 @@
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
 - [sdelements/lets-chat](https://github.com/sdelements/lets-chat) - Self-hosted chat app for small teams
 - [ddj231/Handel](https://github.com/ddj231/Handel) - a small procedural programming language for writting songs in browser
-- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light) - All the power of discord.js, zero caching. This library modifies discord.js's internal classes and functions in order to give you full control over its caching behaviour.
 - [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
@@ -1335,6 +1334,7 @@
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [tsiege/Tech-Interview-Cheat-Sheet](https://github.com/tsiege/Tech-Interview-Cheat-Sheet) - Studying for a tech interview sucks. Here's an open source cheat sheet to help
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
+- [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [deemdobrev/notes-app](https://github.com/deemdobrev/notes-app) - Note taking app built using TypeScript and React.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
