@@ -659,7 +659,7 @@
 ## JavaScript 
 
 - [nextcloud/twofactor_totp](https://github.com/nextcloud/twofactor_totp) - 🔑 Second factor TOTP (RFC 6238) provider for Nextcloud
-- [ThomasFKJorna/emacs-docs](https://github.com/ThomasFKJorna/emacs-docs) - The documentation website Emacs deserves
+- [tefkah/emacs-docs](https://github.com/tefkah/emacs-docs) - The documentation website Emacs deserves
 - [dundalek/markmap](https://github.com/dundalek/markmap) - Visualize markdown documents as mindmaps
 - [imfunniee/gitfolio](https://github.com/imfunniee/gitfolio) - :octocat: personal website + blog  for every github user
 - [bradtraversy/terminal-landing-page](https://github.com/bradtraversy/terminal-landing-page) - Simple terminal style landing page
