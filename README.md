@@ -192,7 +192,6 @@
 - [reagent-project/reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template) - template for creating Reagent projects without a backend
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A simple and easy web framework for Clojure.
-- [manuel-uberti/boodle](https://github.com/manuel-uberti/boodle) - Accounting SPA in Clojure and ClojureScript
 - [bhauman/figwheel-main](https://github.com/bhauman/figwheel-main) - Figwheel Main provides tooling for developing ClojureScript applications
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 - [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro) - A library for development of single-page full-stack web applications in clj/cljs
