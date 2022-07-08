@@ -528,7 +528,7 @@
 - [vekatze/neut](https://github.com/vekatze/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [willtim/Expresso](https://github.com/willtim/Expresso) - A simple expressions language with polymorphic extensible row types.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [csicar/purescript-doctest](https://github.com/csicar/purescript-doctest) - Generate tests from examples in purescript docs
@@ -1336,7 +1336,7 @@
 - [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The communications platform that puts data protection first.
 - [deemdobrev/notes-app](https://github.com/deemdobrev/notes-app) - Note taking app built using TypeScript and React.
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework
+- [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [howtographql/howtographql](https://github.com/howtographql/howtographql) - The Fullstack Tutorial for GraphQL
