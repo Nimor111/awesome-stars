@@ -358,7 +358,6 @@
 - [ananthakumaran/tide](https://github.com/ananthakumaran/tide) - Tide - TypeScript Interactive Development Environment for Emacs
 - [asok/projectile-rails](https://github.com/asok/projectile-rails) - Emacs Rails mode based on projectile
 - [ejmr/love-minor-mode](https://github.com/ejmr/love-minor-mode) - An Emacs minor mode for LÖVE
-- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 - [bbatsov/helm-projectile](https://github.com/bbatsov/helm-projectile) - Helm UI for Projectile
 - [twlz0ne/elpl](https://github.com/twlz0ne/elpl) - Provides a simple interface to evaluating Emacs Lisp expressions but without contaminating current Emacs.
 - [snosov1/toc-org](https://github.com/snosov1/toc-org) - toc-org is an Emacs utility to have an up-to-date table of contents in the org files without exporting (useful primarily for readme files on GitHub)
@@ -836,6 +835,7 @@
 ## Org 
 
 - [tecosaur/emacs-config](https://github.com/tecosaur/emacs-config) - My configuration for Doom Emacs
+- [angrybacon/dotemacs](https://github.com/angrybacon/dotemacs) - My Emacs configuration
 
 ## Others 
 
