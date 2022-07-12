@@ -550,7 +550,7 @@
 - [FPtje/miso-isomorphic-example](https://github.com/FPtje/miso-isomorphic-example) - Minimalistic single page example of Miso's isomorphic feature.
 - [stolyaroleh/grafanix](https://github.com/stolyaroleh/grafanix) - Visualize your Nix dependencies!
 - [TheLostLambda/glossweeper](https://github.com/TheLostLambda/glossweeper) - A minesweeper clone written with Haskell in Gloss
-- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI programming library written in Haskell
+- [jtdaugherty/brick](https://github.com/jtdaugherty/brick) - A declarative Unix terminal UI library written in Haskell
 - [srid/rib](https://github.com/srid/rib) - Haskell static site generator based on Shake (superseded by https://github.com/srid/ema)
 - [unisonweb/unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [kowainik/tomland](https://github.com/kowainik/tomland) - 🏝 Bidirectional TOML serialization
