@@ -820,7 +820,7 @@
 - [cprussin/dotfiles](https://github.com/cprussin/dotfiles) - Configure all the things!
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
-- [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My NixOS + home-manager dotfiles, using i3-gaps
+- [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My NixOS + home-manager dotfiles, using i3-gaps and sway
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -1200,7 +1200,7 @@
 - [ggez/ggez-goodies](https://github.com/ggez/ggez-goodies) - Useful modules for the ggez Rust game framework.
 - [jmacdonald/amp](https://github.com/jmacdonald/amp) - A complete text editor for your terminal.
 - [hyperium/hyper](https://github.com/hyperium/hyper) - An HTTP library for Rust
-- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [aweinstock314/rust-clipboard](https://github.com/aweinstock314/rust-clipboard) - System Clipboard interfacing library in Rust
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [IGI-111/Smith](https://github.com/IGI-111/Smith) - A simple text editor written in Rust
