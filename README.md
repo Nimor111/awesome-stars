@@ -1002,7 +1002,7 @@
 - [allexks/mynathon](https://github.com/allexks/mynathon) - Езикът за програмиране за майни и маняци.
 - [jbush001/LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - A microcontroller that natively executes a simple LISP dialect
 - [WeAreWizards/voting-deployment-test](https://github.com/WeAreWizards/voting-deployment-test) - A test Django application to illustrate the practical differences between Ansible and Nix(OS/Ops)
-- [nix-dot-dev/nix.dev](https://github.com/nix-dot-dev/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
 - [nix-community/pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
