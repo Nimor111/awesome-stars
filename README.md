@@ -325,7 +325,7 @@
 - [krisajenkins/ob-translate](https://github.com/krisajenkins/ob-translate) - Allows you to translate blocks of text within org-mode.
 - [atykhonov/google-translate](https://github.com/atykhonov/google-translate) - Emacs interface to Google Translate
 - [IvanMalison/org-projectile](https://github.com/IvanMalison/org-projectile) - Manage org-mode TODOs for your projectile projects
-- [darksmile/cheatsheet](https://github.com/darksmile/cheatsheet) - 
+- [mykyta-shyrin/cheatsheet](https://github.com/mykyta-shyrin/cheatsheet) - 
 - [hvesalai/emacs-sbt-mode](https://github.com/hvesalai/emacs-sbt-mode) - An emacs mode for interacting with scala sbt and projects
 - [bard/org-dashboard](https://github.com/bard/org-dashboard) - Visual summary of progress in projects and tasks for Emacs Org Mode
 - [hyakt/emacs-dashboard-hackernews](https://github.com/hyakt/emacs-dashboard-hackernews) - Display a topstories of Hacker News on Dashboard.
