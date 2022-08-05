@@ -397,7 +397,7 @@
 
 ## Fennel 
 
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, Nix, i3, Kitty, Fish, Neovim and more
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 
 ## GLSL 
 
