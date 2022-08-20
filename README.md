@@ -848,7 +848,7 @@
 - [challenger-deep-theme/alacritty](https://github.com/challenger-deep-theme/alacritty) - Alacritty Theme
 - [kamadorueda/nixpkgs-db](https://github.com/kamadorueda/nixpkgs-db) - A database with packages from all versions, all commits and all channels.
 - [Dongryul-Kim/harvard_notes](https://github.com/Dongryul-Kim/harvard_notes) - Notes for courses taken at Harvard (2015--2019)
-- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learn Haskell by building a blog generator - a book about Haskell.
+- [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learn Haskell by building a blog generator - an introductory book on Haskell.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - A curated list of emacs-lisp development resources
 - [hackersatcambridge/workshop-love2d](https://github.com/hackersatcambridge/workshop-love2d) - 
