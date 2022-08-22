@@ -784,7 +784,7 @@
 
 ## Nix 
 
-- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - [maintainer=@mjlbach]
+- [nix-community/neovim-nightly-overlay](https://github.com/nix-community/neovim-nightly-overlay) - Unmaintained
 - [srid/agda-template](https://github.com/srid/agda-template) - Imperfect Agda project template using Nix
 - [kubukoz/flake-templates](https://github.com/kubukoz/flake-templates) - 
 - [guibou/nixGL](https://github.com/guibou/nixGL) - A wrapper tool for nix OpenGL application
