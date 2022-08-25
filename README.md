@@ -56,7 +56,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [XSLT](#xslt)
@@ -1386,7 +1386,7 @@
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [VocalPodcastProject/vocal](https://github.com/VocalPodcastProject/vocal) - A powerful, beautiful, and simple podcast client for the modern free desktop.
 
-## Vim script 
+## Vim Script 
 
 - [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
 - [michal-h21/vim-zettel](https://github.com/michal-h21/vim-zettel) - VimWiki addon for managing notes according to Zettelkasten method
