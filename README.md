@@ -1134,7 +1134,7 @@
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
 - [Grokmoo/sulis](https://github.com/Grokmoo/sulis) - Turn based tactical RPG with several campaigns, written in Rust
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
-- [colin-kiegel/rust-pretty-assertions](https://github.com/colin-kiegel/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
+- [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [svenstaro/genact](https://github.com/svenstaro/genact) - 🌀 A nonsense activity generator
 - [trsoluti/space_shooter](https://github.com/trsoluti/space_shooter) - A simple 2D space-shooter game that demonstrates how to make a game using Amethyst.
 - [tomassedovic/quicksilver-roguelike](https://github.com/tomassedovic/quicksilver-roguelike) - Template for a roguelike in Rust targeting desktop and the web
