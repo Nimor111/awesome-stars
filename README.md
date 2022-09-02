@@ -172,7 +172,6 @@
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
 - [bradtraversy/react-tailwind-pixabay-gallery](https://github.com/bradtraversy/react-tailwind-pixabay-gallery) - Pixabay image gallery
-- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [ElixirCourse/blog](https://github.com/ElixirCourse/blog) - Blog for the Elixir Course
 - [gayanvirajith/harmony](https://github.com/gayanvirajith/harmony) - A responsive Jekyll theme.
 - [NikolaPavlov/Hack_Bulgaria_Django](https://github.com/NikolaPavlov/Hack_Bulgaria_Django) - Hack Bulgaria Django course
@@ -820,6 +819,7 @@
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build rust crates in Nix. No configuration, no code generation, no IFD. Sandbox friendly. [maintainer: @Patryk27]
 - [cprussin/dotfiles](https://github.com/cprussin/dotfiles) - Configure all the things!
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
+- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My NixOS + home-manager dotfiles, using i3-gaps and sway
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
