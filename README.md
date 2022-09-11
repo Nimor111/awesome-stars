@@ -820,7 +820,7 @@
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
-- [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My NixOS + home-manager dotfiles, using i3-gaps and sway
+- [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [justinwoo/nix-shorts](https://github.com/justinwoo/nix-shorts) - A collection of short notes about Nix, down to what is immediately needed for users.
@@ -998,7 +998,7 @@
 - [archivy/archivy](https://github.com/archivy/archivy) - Archivy is a self-hostable knowledge repository that allows you to learn and retain information in your own personal and extensible wiki.
 - [DavHau/mach-nix](https://github.com/DavHau/mach-nix) - Create highly reproducible python environments
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
-- [allexks/mynathon](https://github.com/allexks/mynathon) - Езикът за програмиране за майни и маняци.
+- [yalishanda42/mynathon](https://github.com/yalishanda42/mynathon) - Езикът за програмиране за майни и маняци.
 - [jbush001/LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - A microcontroller that natively executes a simple LISP dialect
 - [WeAreWizards/voting-deployment-test](https://github.com/WeAreWizards/voting-deployment-test) - A test Django application to illustrate the practical differences between Ansible and Nix(OS/Ops)
 - [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - An opinionated guide for developers wanting to get things done with the Nix ecosystem.
