@@ -854,6 +854,7 @@
 - [milesfrain/purescript-faq](https://github.com/milesfrain/purescript-faq) - An unofficial FAQ for the PureScript language
 - [dewey92/typed-fp-good-reads](https://github.com/dewey92/typed-fp-good-reads) - 📚 List of useful resources to learn typed FP
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
+- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [emanguy/JetBrainsMono](https://github.com/emanguy/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) - 💫 A curated list of awesome resources for the Haskell Cabal build tool.
 - [ocharles/papers](https://github.com/ocharles/papers) - A Git annex repository of papers
@@ -1310,7 +1311,6 @@
 ## Swift 
 
 - [markdaws/Toy3D](https://github.com/markdaws/Toy3D) - A simple 3D engine written in Swift + Metal, for educational purposes.
-- [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [michaelvillar/timer-app](https://github.com/michaelvillar/timer-app) - A simple Timer app for Mac
 
 ## TeX 
