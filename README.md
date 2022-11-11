@@ -772,6 +772,7 @@
 ## Makefile 
 
 - [mpereira/.emacs.d](https://github.com/mpereira/.emacs.d) - Vanilla, Evil, literate Emacs configuration
+- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 
 ## Markdown 
 
@@ -1298,7 +1299,6 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [dgrisham/wenv](https://github.com/dgrisham/wenv) - a personal workflow project gone mad
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
-- [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [openservicebrokerapi/servicebroker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,000+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
