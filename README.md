@@ -125,7 +125,7 @@
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
 - [timbod7/adl](https://github.com/timbod7/adl) - ADL (Algebraic Data Language)
 - [coin-or/Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
-- [natelargo/Grove-Guardian](https://github.com/natelargo/Grove-Guardian) - Ludum Dare 46 Compo
+- [VivianMochi/Grove-Guardian](https://github.com/VivianMochi/Grove-Guardian) - Ludum Dare 46 Compo
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
 - [coin-or/Bonmin](https://github.com/coin-or/Bonmin) - Basic Open-source Nonlinear Mixed INteger programming
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
