@@ -600,7 +600,7 @@
 - [fakedata-haskell/fakedata](https://github.com/fakedata-haskell/fakedata) - Haskell Library for producing quality fake data
 - [haskell/bytestring](https://github.com/haskell/bytestring) - An efficient compact, immutable byte string type (both strict and lazy) suitable for binary or 8-bit character data.
 - [BurntSushi/erd](https://github.com/BurntSushi/erd) - Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.
-- [tweag/asterius](https://github.com/tweag/asterius) - A Haskell to WebAssembly compiler
+- [tweag/asterius](https://github.com/tweag/asterius) - DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc
 - [ajkavanagh/pacman](https://github.com/ajkavanagh/pacman) - curses Pac-man game in Haskell -- mostly finished, very playable
 - [norm2782/NanoProlog](https://github.com/norm2782/NanoProlog) - 
 - [ikko-lang/ikko](https://github.com/ikko-lang/ikko) - Ikko language
