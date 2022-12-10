@@ -242,7 +242,7 @@
 - [AadumKhor/Solitaire_Flutter](https://github.com/AadumKhor/Solitaire_Flutter) - Classic solitaire game recreated in Flutter without using any game engine.
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [flutter/plugins](https://github.com/flutter/plugins) - Plugins for Flutter maintained by the Flutter team
-- [leisim/awesome-flutter-packages](https://github.com/leisim/awesome-flutter-packages) - A curated list of awesome Flutter packages.
+- [simc/awesome-flutter-packages](https://github.com/simc/awesome-flutter-packages) - A curated list of awesome Flutter packages.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 
 ## Dhall 
@@ -1128,7 +1128,7 @@
 - [antoyo/relm](https://github.com/antoyo/relm) - Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust
 - [BurntSushi/quickcheck](https://github.com/BurntSushi/quickcheck) - Automated property based testing for Rust (with shrinking).
 - [spieglt/nestur](https://github.com/spieglt/nestur) - The NES (emulator) you left outside in the rain but let dry and still kind of works
-- [Kindelia/Kind2](https://github.com/Kindelia/Kind2) - A next-gen functional language
+- [Kindelia/Kind](https://github.com/Kindelia/Kind) - A next-gen functional language
 - [lislis/workshop-rust-games](https://github.com/lislis/workshop-rust-games) - RustFest workshop
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
