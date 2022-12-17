@@ -369,7 +369,7 @@
 - [lepisma/org-books](https://github.com/lepisma/org-books) - Reading list management with org mode
 - [alhassy/emacs.d](https://github.com/alhassy/emacs.d) - My Emacs configuration, literately :smile:
 - [zaeph/.emacs.d](https://github.com/zaeph/.emacs.d) - Personal configuration for Emacs & Custom modules
-- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git porcelain inside Emacs.
+- [magit/magit](https://github.com/magit/magit) - It's Magit! A Git Porcelain inside Emacs.
 - [radian-software/straight.el](https://github.com/radian-software/straight.el) - 🍀 Next-generation, purely functional package manager for the Emacs hacker.
 - [jethrokuan/dots](https://github.com/jethrokuan/dots) - tracking my dotfiles
 - [agzam/exwm-edit](https://github.com/agzam/exwm-edit) - Edit mode for EXWM
