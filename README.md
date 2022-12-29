@@ -1047,7 +1047,7 @@
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [heroku/heroku-django-template](https://github.com/heroku/heroku-django-template) - A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
 - [pselle/django-rest-angular2-example](https://github.com/pselle/django-rest-angular2-example) - A simple example of a Django REST app + Angular2
@@ -1091,7 +1091,7 @@
 - [ludat/hado-rs](https://github.com/ludat/hado-rs) - 
 - [mlvzk/manix](https://github.com/mlvzk/manix) - A fast CLI documentation searcher for Nix.
 - [grego/blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
-- [Geal/nom](https://github.com/Geal/nom) - Rust parser combinator framework
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [linebender/druid](https://github.com/linebender/druid) - A data-first Rust-native UI design toolkit.
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
 - [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
