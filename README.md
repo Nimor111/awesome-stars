@@ -1047,7 +1047,7 @@
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
 - [DrkSephy/django-hackathon-starter](https://github.com/DrkSephy/django-hackathon-starter) - A boilerplate for Django web applications
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome Linux softwares!
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [heroku/heroku-django-template](https://github.com/heroku/heroku-django-template) - A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
 - [pselle/django-rest-angular2-example](https://github.com/pselle/django-rest-angular2-example) - A simple example of a Django REST app + Angular2
@@ -1357,7 +1357,6 @@
 - [alshdavid-labs/crayon](https://github.com/alshdavid-labs/crayon) - Simple framework agnostic UI router for SPAs
 - [lujakob/nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM / Prisma
 - [gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Exemplary real world application built with Angular
-- [mdoury/nestjs-auth-starter-kit](https://github.com/mdoury/nestjs-auth-starter-kit) - NestJS Auth Starter Kit (typescript / typeorm / swagger / passport / bcrypt)
 - [bradtraversy/nestjs_rest_api](https://github.com/bradtraversy/nestjs_rest_api) - Rest api built with Nest and MongoDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
