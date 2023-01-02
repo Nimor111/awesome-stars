@@ -181,7 +181,7 @@
 
 - [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven router for Clojure/Script
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
-- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
 - [200ok-ch/org-parser](https://github.com/200ok-ch/org-parser) - org-parser is a parser for the Org mode markup language for Emacs.
 - [dundalek/closh](https://github.com/dundalek/closh) - Bash-like shell based on Clojure
