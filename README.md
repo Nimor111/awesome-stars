@@ -530,7 +530,7 @@
 - [vekatze/neut](https://github.com/vekatze/neut) - A dependently-typed programming language with compile-time malloc/free determination
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
-- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/EmaApps/emanote)
+- [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
 - [willtim/Expresso](https://github.com/willtim/Expresso) - A simple expressions language with polymorphic extensible row types.
 - [tdammers/ginger](https://github.com/tdammers/ginger) - A Haskell implementation of the Jinja template language.
 - [csicar/purescript-doctest](https://github.com/csicar/purescript-doctest) - Generate tests from examples in purescript docs
@@ -1042,7 +1042,6 @@
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [faif/python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns/idioms in Python
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [HackSoftware/Odin](https://github.com/HackSoftware/Odin) - Learning management system for HackBulgaria / HackSoft Academy
 - [two-man-army/deadline](https://github.com/two-man-army/deadline) - Web App for solving programming challenges
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
 - [pypa/pipfile](https://github.com/pypa/pipfile) - 
@@ -1293,7 +1292,7 @@
 - [ramsayleung/dotfiles](https://github.com/ramsayleung/dotfiles) - A shell script to install awesome command for *nix platform and set them up
 - [jeaye/nixos-in-place](https://github.com/jeaye/nixos-in-place) - Install NixOS on top of any existing Linux distribution without rebooting
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [spwhitt/nix-zsh-completions](https://github.com/spwhitt/nix-zsh-completions) - ZSH Completions for Nix
+- [nix-community/nix-zsh-completions](https://github.com/nix-community/nix-zsh-completions) - ZSH Completions for Nix
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [dgrisham/wenv](https://github.com/dgrisham/wenv) - a personal workflow project gone mad
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
