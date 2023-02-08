@@ -1362,7 +1362,7 @@
 - [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
 - [IliaIdakiev/boot-camp-01](https://github.com/IliaIdakiev/boot-camp-01) - 
 - [mattwelke/typeorm-postgres-example](https://github.com/mattwelke/typeorm-postgres-example) - An example showing using TypeORM with PostgreSQL, including a seed task.
-- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron
+- [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 - [Chevrotain/chevrotain](https://github.com/Chevrotain/chevrotain) - Parser Building Toolkit for JavaScript
 - [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
