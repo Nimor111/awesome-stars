@@ -951,7 +951,7 @@
 - [purescript-contrib/purescript-book](https://github.com/purescript-contrib/purescript-book) - Sources for the PureScript book
 - [lambdaterms/purescript-httpure-registration-example](https://github.com/lambdaterms/purescript-httpure-registration-example) - 
 - [citizennet/purescript-httpure](https://github.com/citizennet/purescript-httpure) - A web framework written in PureScript.
-- [nsaunders/purescript-typedenv](https://github.com/nsaunders/purescript-typedenv) - Parse environment variables according to a type-level specification.
+- [nsaunders/purescript-typedenv](https://github.com/nsaunders/purescript-typedenv) - Type-directed environment parsing
 - [f-o-a-m/purescript-servant](https://github.com/f-o-a-m/purescript-servant) - a servant like DSL for templating requests
 - [kritzcreek/pscid](https://github.com/kritzcreek/pscid) - A lightweight, fast and unintrusive PureScript file-watcher
 - [ajnsit/purescript-formless-independent](https://github.com/ajnsit/purescript-formless-independent) - Formless library, Independent of any UI Framework dependencies
