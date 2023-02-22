@@ -183,7 +183,7 @@
 
 ## Clojure 
 
-- [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven router for Clojure/Script
+- [metosin/reitit](https://github.com/metosin/reitit) - A fast data-driven routing library for Clojure/Script
 - [plumatic/schema](https://github.com/plumatic/schema) - Clojure(Script) library for declarative data description and validation
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [magnars/stasis](https://github.com/magnars/stasis) - Some Clojure functions for creating static websites.
