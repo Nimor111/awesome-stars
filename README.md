@@ -649,6 +649,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [gilmore606/ure](https://github.com/gilmore606/ure) - the unRogueEngine
 - [javaee/jersey](https://github.com/javaee/jersey) - This is no longer the active Jersey repository. Please see the README.md
@@ -692,7 +693,6 @@
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [youneshenniwrites/ReactNativeAuth](https://github.com/youneshenniwrites/ReactNativeAuth) - Mobile user authentication flow with React Native, Expo, and AWS Amplify: Sign In, Sign Up, Confirm Sign Up, Forget Password, Reset Password.
 - [SAP-archive/cloud-sample-spaceflight-node](https://github.com/SAP-archive/cloud-sample-spaceflight-node) - Build node applications with the application programming model on SAP Cloud Platform.
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [cloudfoundry/overview-broker](https://github.com/cloudfoundry/overview-broker) - A service broker that provides an overview of its service instances and bindings. Conforms to the Open Service Broker API standard.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [nikoladimitroff/Game-Engine-Architecture](https://github.com/nikoladimitroff/Game-Engine-Architecture) - A repo contaning the learning materials for the course 'Game Engine architecture'
