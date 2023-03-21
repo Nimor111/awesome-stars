@@ -1353,7 +1353,7 @@
 - [akveo/kittenTricks](https://github.com/akveo/kittenTricks) - React Native starter kit with over 40 screens and modern Light and Dark theme for creating stunning cross-platform mobile applications.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [reduxjs/redux](https://github.com/reduxjs/redux) - Predictable state container for JavaScript apps
-- [alshdavid-labs/crayon](https://github.com/alshdavid-labs/crayon) - Simple framework agnostic UI router for SPAs
+- [alshdavid/pico-router](https://github.com/alshdavid/pico-router) - Simple framework agnostic UI router for SPAs
 - [lujakob/nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM / Prisma
 - [gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Exemplary real world application built with Angular
 - [bradtraversy/nestjs_rest_api](https://github.com/bradtraversy/nestjs_rest_api) - Rest api built with Nest and MongoDB
