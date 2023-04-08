@@ -27,6 +27,7 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Idris](#idris)
 - [Java](#java)
@@ -484,6 +485,10 @@
 - [lispgames/lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
 - [6desislava6/R-statistics-2017](https://github.com/6desislava6/R-statistics-2017) - 
 
+## Handlebars 
+
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
+
 ## Haskell 
 
 - [haskellari/postgresql-simple](https://github.com/haskellari/postgresql-simple) - Mid-level client library for accessing PostgreSQL from Haskell
@@ -901,7 +906,6 @@
 - [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:
 - [trstringer/cli-debugging-cheatsheets](https://github.com/trstringer/cli-debugging-cheatsheets) - :fire: Collection of command-line debugging cheatsheets for multiple languages and runtimes
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
-- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns) - A catalogue of Rust design patterns, anti-patterns and idioms
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [jonascarpay/apecs-physics](https://github.com/jonascarpay/apecs-physics) - 2D physics and rendering for apecs
 - [snaptoken/kilo-tutorial](https://github.com/snaptoken/kilo-tutorial) - build your own text editor
