@@ -856,7 +856,7 @@
 - [Dongryul-Kim/harvard_notes](https://github.com/Dongryul-Kim/harvard_notes) - Notes for courses taken at Harvard (2015--2019)
 - [soupi/learn-haskell-blog-generator](https://github.com/soupi/learn-haskell-blog-generator) - Learn Haskell by building a blog generator - an introductory book on Haskell.
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of emacs-lisp development resources
+- [p3r7/awesome-elisp](https://github.com/p3r7/awesome-elisp) - 🏵️ A curated list of Emacs Lisp development resources
 - [hackersatcambridge/workshop-love2d](https://github.com/hackersatcambridge/workshop-love2d) - 
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [milesfrain/purescript-faq](https://github.com/milesfrain/purescript-faq) - An unofficial FAQ for the PureScript language
