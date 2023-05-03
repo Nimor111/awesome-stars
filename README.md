@@ -128,7 +128,7 @@
 - [SFML/imgui-sfml](https://github.com/SFML/imgui-sfml) - Dear ImGui backend for use with SFML
 - [PfAndrey/supermariohd](https://github.com/PfAndrey/supermariohd) - Cross-platform HD remake of Super Mario Bros (NES, 1985) with original game mechanics
 - [vcmi/vcmi](https://github.com/vcmi/vcmi) - Open-source engine for Heroes of Might and Magic III
-- [timbod7/adl](https://github.com/timbod7/adl) - ADL (Algebraic Data Language)
+- [adl-lang/adl](https://github.com/adl-lang/adl) - ADL (Algebraic Data Language)
 - [coin-or/Ipopt](https://github.com/coin-or/Ipopt) - COIN-OR Interior Point Optimizer IPOPT
 - [VivianMochi/Grove-Guardian](https://github.com/VivianMochi/Grove-Guardian) - Ludum Dare 46 Compo
 - [beefytech/Beef](https://github.com/beefytech/Beef) - Beef Programming Language
