@@ -954,7 +954,7 @@
 - [kritzcreek/pscid](https://github.com/kritzcreek/pscid) - A lightweight, fast and unintrusive PureScript file-watcher
 - [ajnsit/purescript-formless-independent](https://github.com/ajnsit/purescript-formless-independent) - Formless library, Independent of any UI Framework dependencies
 - [thomashoneyman/purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Painless forms for Halogen
-- [lumihq/purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
+- [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [bodil/purescript-smolder](https://github.com/bodil/purescript-smolder) - A combinator library for generating markup
 - [lumihq/purescript-lumi-components](https://github.com/lumihq/purescript-lumi-components) - Library of our UI components
 - [justinwoo/spacchetti-react-basic-starter](https://github.com/justinwoo/spacchetti-react-basic-starter) - Fork of react-basic-starter using Package sets
@@ -965,7 +965,7 @@
 - [adkelley/javascript-to-purescript](https://github.com/adkelley/javascript-to-purescript) - Tutorial Series - Make the Leap from Javascript to PureScript
 - [purescript-contrib/purescript-parsing](https://github.com/purescript-contrib/purescript-parsing) - A parser combinator library based on Parsec
 - [purescript-contrib/purescript-profunctor-lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses) - Pure profunctor lenses
-- [megamaddu/purescript-react-basic-hooks](https://github.com/megamaddu/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
+- [purescript-react/purescript-react-basic-hooks](https://github.com/purescript-react/purescript-react-basic-hooks) - An implementation of React hooks on top of purescript-react-basic
 - [JordanMartinez/purescript-jordans-reference](https://github.com/JordanMartinez/purescript-jordans-reference) - Learn PureScript with this "clone and play" repository
 - [jaspervdj/beeraffe](https://github.com/jaspervdj/beeraffe) - 
 - [purescript-contrib/purescript-routing](https://github.com/purescript-contrib/purescript-routing) - A clean, type-safe routing library for PureScript.
