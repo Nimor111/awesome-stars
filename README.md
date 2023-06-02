@@ -288,6 +288,7 @@
 
 ## Emacs Lisp 
 
+- [fsharp/emacs-fsharp-mode](https://github.com/fsharp/emacs-fsharp-mode) - F# Emacs mode
 - [suonlight/multi-vterm](https://github.com/suonlight/multi-vterm) - Managing multiple vterm buffers in Emacs
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
 - [zweifisch/ob-http](https://github.com/zweifisch/ob-http) - make http request within org-mode babel
