@@ -528,7 +528,7 @@
 - [higherkindness/mu-haskell](https://github.com/higherkindness/mu-haskell) - Mu (μ) is a purely functional framework for building micro services.
 - [cdepillabout/termonad](https://github.com/cdepillabout/termonad) - Terminal emulator configurable in Haskell.
 - [Synthetica9/nix-linter](https://github.com/Synthetica9/nix-linter) - Linter for the Nix expression language
-- [vekatze/neut](https://github.com/vekatze/neut) - A dependently-typed programming language with compile-time malloc/free determination
+- [vekatze/neut](https://github.com/vekatze/neut) - A dependently-typed programming language with static memory management
 - [haskellweekly/haskellweekly](https://github.com/haskellweekly/haskellweekly) - Publishes curated news about the Haskell programming language.
 - [kowainik/stan](https://github.com/kowainik/stan) - 🕵️ Haskell STatic ANalyser
 - [srid/neuron](https://github.com/srid/neuron) - Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)
