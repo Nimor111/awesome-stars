@@ -190,7 +190,7 @@
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [reagent-project/reagent-frontend-template](https://github.com/reagent-project/reagent-frontend-template) - template for creating Reagent projects without a backend
 - [cljfx/cljfx](https://github.com/cljfx/cljfx) - Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame
-- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A batteries-included web framework for Clojure.
+- [jacobobryant/biff](https://github.com/jacobobryant/biff) - A Clojure web framework for solo developers.
 - [bhauman/figwheel-main](https://github.com/bhauman/figwheel-main) - Figwheel Main provides tooling for developing ClojureScript applications
 - [oakes/play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 - [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro) - A library for development of single-page full-stack web applications in clj/cljs
@@ -670,7 +670,6 @@
 - [ddj231/Handel](https://github.com/ddj231/Handel) - a small procedural programming language for writting songs in browser
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [timotejroiko/discord.js-light](https://github.com/timotejroiko/discord.js-light) - All the power of discord.js, zero caching. This library modifies discord.js's internal classes and functions in order to give you full control over its caching behaviour.
-- [wei/pull](https://github.com/wei/pull) - 🤖 Keep your forks up-to-date via automated PRs
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
