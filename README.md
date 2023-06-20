@@ -412,7 +412,7 @@
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [DimitarPetrov/printracer](https://github.com/DimitarPetrov/printracer) - 🔎🐛 Golang fmt.Println debugging and tracing tool capable of visualising function invocation paths.
