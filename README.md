@@ -35,6 +35,7 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -772,6 +773,10 @@
 - [usysrc/love-boilerplate](https://github.com/usysrc/love-boilerplate) - Some boilerplate code with gamestates for game jams like ludum dare
 - [NikolaPavlov/Dotfiles](https://github.com/NikolaPavlov/Dotfiles) - my dotfiles
 
+## MDX 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+
 ## Makefile 
 
 - [mpereira/.emacs.d](https://github.com/mpereira/.emacs.d) - Vanilla, Evil, literate Emacs configuration
@@ -1189,7 +1194,6 @@
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
 - [tomassedovic/roguelike-tutorial](https://github.com/tomassedovic/roguelike-tutorial) - Port of the "Complete Roguelike Tutorial, using python+libtcod" to Rust + tcod
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [Boereck/fn_block](https://github.com/Boereck/fn_block) - Library for wrapping a Rust block or expression into a closure and call it.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
