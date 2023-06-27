@@ -289,6 +289,8 @@
 
 ## Emacs Lisp 
 
+- [zweifisch/ob-fsharp](https://github.com/zweifisch/ob-fsharp) - org-babel functions for fsharp evaluation
+- [astahlman/ob-async](https://github.com/astahlman/ob-async) - Asynchronous src_block execution for org-babel
 - [fsharp/emacs-fsharp-mode](https://github.com/fsharp/emacs-fsharp-mode) - F# Emacs mode
 - [suonlight/multi-vterm](https://github.com/suonlight/multi-vterm) - Managing multiple vterm buffers in Emacs
 - [kanru/uuidgen-el](https://github.com/kanru/uuidgen-el) - UUID generation implemented in elisp.
