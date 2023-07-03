@@ -22,7 +22,6 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
-- [Fennel](#fennel)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -82,7 +81,7 @@
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
 - [Jimx-/emacs-gl](https://github.com/Jimx-/emacs-gl) - OpenGL bindings for Emacs Lisp
-- [OnixMarble/Titan-Voyager-Custom-Game-Engine](https://github.com/OnixMarble/Titan-Voyager-Custom-Game-Engine) - 3D FPS game written from scratch in C++ and OpenGL.
+- [EtherealPtr/Titan-Voyager-Custom-Game-Engine](https://github.com/EtherealPtr/Titan-Voyager-Custom-Game-Engine) - 3D FPS game written from scratch in C++ and OpenGL.
 - [Hopson97/cpp-project-generator](https://github.com/Hopson97/cpp-project-generator) - For personal use, easily creates new C++ project files with Cmake etc
 - [saivarshith2000/HTTPStaticServer](https://github.com/saivarshith2000/HTTPStaticServer) - Bare-bones static HTTP server written in a single C file
 - [overmighty/i-use-arch-btw](https://github.com/overmighty/i-use-arch-btw) - "I use Arch btw" but it's a Turing-complete programming language.
@@ -398,10 +397,6 @@
 
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [prasmussen/glot-run](https://github.com/prasmussen/glot-run) - API for running code inside docker containers
-
-## Fennel 
-
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 
 ## GLSL 
 
@@ -771,6 +766,7 @@
 - [josh-perry/peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE. :peach:
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love)
 - [usysrc/love-boilerplate](https://github.com/usysrc/love-boilerplate) - Some boilerplate code with gamestates for game jams like ludum dare
 - [NikolaPavlov/Dotfiles](https://github.com/NikolaPavlov/Dotfiles) - my dotfiles
