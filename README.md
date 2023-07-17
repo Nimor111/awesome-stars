@@ -843,7 +843,7 @@
 
 ## Others 
 
-- [bor0/gidti](https://github.com/bor0/gidti) - Book: Gentle Introduction to Dependent Types with Idris
+- [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
