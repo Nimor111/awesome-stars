@@ -585,7 +585,6 @@
 - [soupi/rfc](https://github.com/soupi/rfc) - My slides and compilation of resources.
 - [ChrisPenner/lens-regex-pcre](https://github.com/ChrisPenner/lens-regex-pcre) - Text lenses using PCRE regexes
 - [rainbyte/frag](https://github.com/rainbyte/frag) - Frag is a 3D first person shooting game written in Haskell, by Mun Hon Cheong
-- [purescript/spago](https://github.com/purescript/spago) - 🍝 PureScript package manager and build tool powered by Dhall and package-sets
 - [ndmitchell/ghcid](https://github.com/ndmitchell/ghcid) - Very low feature GHCi based IDE
 - [HeinrichApfelmus/threepenny-gui](https://github.com/HeinrichApfelmus/threepenny-gui) - GUI framework that uses the web browser as a display.
 - [system-f/fp-course](https://github.com/system-f/fp-course) - Functional Programming Course
@@ -961,6 +960,7 @@
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [bodil/purescript-smolder](https://github.com/bodil/purescript-smolder) - A combinator library for generating markup
 - [lumihq/purescript-lumi-components](https://github.com/lumihq/purescript-lumi-components) - Library of our UI components
+- [purescript/spago](https://github.com/purescript/spago) - 🍝 PureScript package manager and build tool powered by Dhall and package-sets
 - [justinwoo/spacchetti-react-basic-starter](https://github.com/justinwoo/spacchetti-react-basic-starter) - Fork of react-basic-starter using Package sets
 - [thomashoneyman/purescript-halogen-realworld](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen
 - [natefaubion/purescript-heterogeneous](https://github.com/natefaubion/purescript-heterogeneous) - Maps and folds for heterogeneous data types.
