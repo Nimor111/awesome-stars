@@ -326,7 +326,7 @@
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.emacs.d clean
 - [krisajenkins/ob-translate](https://github.com/krisajenkins/ob-translate) - Allows you to translate blocks of text within org-mode.
 - [atykhonov/google-translate](https://github.com/atykhonov/google-translate) - Emacs interface to Google Translate
-- [colonelpanic8/org-projectile](https://github.com/colonelpanic8/org-projectile) - Manage org-mode TODOs for your projectile projects
+- [colonelpanic8/org-project-capture](https://github.com/colonelpanic8/org-project-capture) - Manage org-mode TODOs for your projectile projects
 - [mykyta-shyrin/cheatsheet](https://github.com/mykyta-shyrin/cheatsheet) - 
 - [hvesalai/emacs-sbt-mode](https://github.com/hvesalai/emacs-sbt-mode) - An emacs mode for interacting with scala sbt and projects
 - [bard/org-dashboard](https://github.com/bard/org-dashboard) - Visual summary of progress in projects and tasks for Emacs Org Mode
