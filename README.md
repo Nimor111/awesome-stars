@@ -227,7 +227,7 @@
 
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [synw/sqlcool](https://github.com/synw/sqlcool) - Easy and reactive Sqlite for Flutter
-- [hivedb/hive](https://github.com/hivedb/hive) - Lightweight and blazing fast key-value database written in pure Dart.
+- [isar/hive](https://github.com/isar/hive) - Lightweight and blazing fast key-value database written in pure Dart.
 - [DimitarPetrov/stegify-mobile](https://github.com/DimitarPetrov/stegify-mobile) - 📱Mobile application for LSB steganography, capable of hiding any file within an image.
 - [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
