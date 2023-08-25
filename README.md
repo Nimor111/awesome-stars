@@ -1133,7 +1133,7 @@
 - [lislis/workshop-rust-games](https://github.com/lislis/workshop-rust-games) - RustFest workshop
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library for generating regular expressions from user-provided test cases
+- [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [Grokmoo/sulis](https://github.com/Grokmoo/sulis) - Turn based tactical RPG with several campaigns, written in Rust
 - [koute/pinky](https://github.com/koute/pinky) - An NES emulator written in Rust
 - [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions) - Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
