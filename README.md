@@ -134,7 +134,6 @@
 - [ssloy/tinyrenderer](https://github.com/ssloy/tinyrenderer) - A brief computer graphics / rendering course
 - [weka511/smac](https://github.com/weka511/smac) - Code I have written for course: Statistical Mechanics and Computations
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [ssloy/tinyraycaster](https://github.com/ssloy/tinyraycaster) - 486 lines of C++: old-school FPS in a weekend
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [solodon4/Mach7](https://github.com/solodon4/Mach7) - Functional programming style pattern-matching library for C++
@@ -648,6 +647,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
 - [gilmore606/ure](https://github.com/gilmore606/ure) - the unRogueEngine
 - [javaee/jersey](https://github.com/javaee/jersey) - This is no longer the active Jersey repository. Please see the README.md
@@ -1260,7 +1260,7 @@
 - [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 - [fehmicansaglam/progressed.io](https://github.com/fehmicansaglam/progressed.io) - progressbar microservice
-- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. For bugs, see scala/bug
+- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
 
 ## Scheme 
 
