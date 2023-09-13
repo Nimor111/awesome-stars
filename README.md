@@ -1373,7 +1373,7 @@
 - [piotrwitek/react-redux-typescript-webpack-starter](https://github.com/piotrwitek/react-redux-typescript-webpack-starter) - React / Redux / Typescript / Webpack - Starter (optimized for performance)
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment.
-- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [angular/angular-cli](https://github.com/angular/angular-cli) - CLI tool for Angular
 - [auth0/angular2-jwt](https://github.com/auth0/angular2-jwt) - Helper library for handling JWTs in Angular apps
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
@@ -1426,7 +1426,7 @@
 - [AndrewRadev/Vimfiles](https://github.com/AndrewRadev/Vimfiles) - My .vim folder
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [racer-rust/vim-racer](https://github.com/racer-rust/vim-racer) - Racer support for Vim
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [vim-test/vim-test](https://github.com/vim-test/vim-test) - Run your tests at the speed of thought
