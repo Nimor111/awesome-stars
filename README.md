@@ -22,6 +22,7 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [Fennel](#fennel)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -398,6 +399,10 @@
 - [erlang/otp](https://github.com/erlang/otp) - Erlang/OTP
 - [prasmussen/glot-run](https://github.com/prasmussen/glot-run) - API for running code inside docker containers
 
+## Fennel 
+
+- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
+
 ## GLSL 
 
 - [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
@@ -765,7 +770,6 @@
 - [josh-perry/peachy](https://github.com/josh-perry/peachy) - A parser/renderer for Aseprite animations in LÖVE. :peach:
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [Olical/conjure](https://github.com/Olical/conjure) - Interactive evaluation for Neovim (Clojure, Fennel, Janet, Racket, Hy, MIT Scheme, Guile)
-- [Olical/dotfiles](https://github.com/Olical/dotfiles) - Configuration for Linux, i3, Kitty, Fish, Neovim and more
 - [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love)
 - [usysrc/love-boilerplate](https://github.com/usysrc/love-boilerplate) - Some boilerplate code with gamestates for game jams like ludum dare
 - [NikolaPavlov/Dotfiles](https://github.com/NikolaPavlov/Dotfiles) - my dotfiles
