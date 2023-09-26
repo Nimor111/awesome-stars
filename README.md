@@ -77,7 +77,6 @@
 ## C 
 
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
-- [andrewrk/tetris](https://github.com/andrewrk/tetris) - A simple tetris clone written in zig programming language.
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
@@ -1460,6 +1459,7 @@
 
 ## Zig 
 
+- [andrewrk/tetris](https://github.com/andrewrk/tetris) - A simple tetris clone written in zig programming language.
 - [ducdetronquito/http](https://github.com/ducdetronquito/http) - HTTP core types for Zig 🦴
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book
