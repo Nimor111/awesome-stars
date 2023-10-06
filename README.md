@@ -248,7 +248,7 @@
 ## Dhall 
 
 - [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) - Typecheck, template and modularize your Github Action definitions with Dhall
-- [lumihq/react-basic-starter](https://github.com/lumihq/react-basic-starter) - Starter application for purescript-react-basic
+- [purescript-react/react-basic-starter](https://github.com/purescript-react/react-basic-starter) - Starter application for purescript-react-basic
 
 ## Dockerfile 
 
