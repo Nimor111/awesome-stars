@@ -432,6 +432,7 @@
 - [cc2k19/go-tin](https://github.com/cc2k19/go-tin) - New social network developed for a university project
 - [ataleksandrov/Fractal-Generator](https://github.com/ataleksandrov/Fractal-Generator) - A program for visualizing the Mandelbrot set, defined by F(Z) = е^cos(C*Z)
 - [concourse/concourse](https://github.com/concourse/concourse) - Concourse is a container-based continuous thing-doer written in Go.
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [dennwc/dom](https://github.com/dennwc/dom) - DOM library for Go and WASM
 - [go-flutter-desktop/go-flutter](https://github.com/go-flutter-desktop/go-flutter) - Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.
 - [kubernetes-retired/go-open-service-broker-client](https://github.com/kubernetes-retired/go-open-service-broker-client) - A golang client for service brokers implementing the Open Service Broker API
