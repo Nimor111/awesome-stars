@@ -774,7 +774,7 @@
 
 ## MDX 
 
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## Makefile 
 
@@ -1363,7 +1363,7 @@
 - [bradtraversy/nestjs_rest_api](https://github.com/bradtraversy/nestjs_rest_api) - Rest api built with Nest and MongoDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
-- [angular/angularfire](https://github.com/angular/angularfire) - The official Angular library for Firebase.
+- [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [IliaIdakiev/boot-camp-01](https://github.com/IliaIdakiev/boot-camp-01) - 
 - [mattwelke/typeorm-postgres-example](https://github.com/mattwelke/typeorm-postgres-example) - An example showing using TypeORM with PostgreSQL, including a seed task.
 - [typeorm/typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
