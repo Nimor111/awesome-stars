@@ -202,7 +202,7 @@
 - [bhauman/lein-figwheel](https://github.com/bhauman/lein-figwheel) - Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!
 - [cljdoc/cljdoc](https://github.com/cljdoc/cljdoc) - 📚 A central documentation hub for the Clojure community
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
-- [hoplon/hoplon](https://github.com/hoplon/hoplon) - Hoplon web development tools and libraries.
+- [hoplon/hoplon](https://github.com/hoplon/hoplon) - Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
 
 ## Common Lisp 
