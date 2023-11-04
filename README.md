@@ -1318,7 +1318,6 @@
 - [liantze/AltaCV](https://github.com/liantze/AltaCV) - Yet another alternative curriculum vitae/résumé class with LaTeX
 - [aidanscannell/my-org-resume](https://github.com/aidanscannell/my-org-resume) - Personal CV/Resume written in Org-mode with the LaTeX AltaCV template.
 - [v--/se2018](https://github.com/v--/se2018) - Study notes for my state examination in Sofia University
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged) - Open book about math and programming.
 - [winitzki/sofp](https://github.com/winitzki/sofp) - A free book: "The Science of Functional Programming"
 - [matman26/emacs-config](https://github.com/matman26/emacs-config) - My configuration files for evil-mode emacs in org-mode format
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
