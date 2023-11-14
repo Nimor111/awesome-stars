@@ -78,7 +78,7 @@
 
 - [AsahiLinux/linux](https://github.com/AsahiLinux/linux) - Linux kernel source tree
 - [mpc-hc/mpc-hc](https://github.com/mpc-hc/mpc-hc) - MPC-HC's main repository.  For support use our Trac: https://trac.mpc-hc.org/
-- [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
+- [perkele1989/light](https://github.com/perkele1989/light) - GNU/Linux application to control backlights
 - [sargon/trayer-srg](https://github.com/sargon/trayer-srg) - trayer fork with multi monitor support, cleaned up codebase and other fancy stuff
 - [Jimx-/emacs-gl](https://github.com/Jimx-/emacs-gl) - OpenGL bindings for Emacs Lisp
 - [EtherealPtr/Titan-Voyager-Custom-Game-Engine](https://github.com/EtherealPtr/Titan-Voyager-Custom-Game-Engine) - 3D FPS game written from scratch in C++ and OpenGL.
