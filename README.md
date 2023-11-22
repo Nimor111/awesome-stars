@@ -1188,7 +1188,7 @@
 - [uuid-rs/uuid](https://github.com/uuid-rs/uuid) - Generate and parse UUIDs.
 - [ersenal/gabira](https://github.com/ersenal/gabira) - A rust library for testing HTTP servers. It focuses on ergonomics and brevity.
 - [lawliet89/rocket_cors](https://github.com/lawliet89/rocket_cors) - Cross-origin resource sharing (CORS) for Rocket.rs applications
-- [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
+- [rwf2/Rocket](https://github.com/rwf2/Rocket) - A web framework for Rust.
 - [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars
 - [amethyst/amethyst](https://github.com/amethyst/amethyst) - Data-oriented and data-driven game engine written in Rust
 - [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
