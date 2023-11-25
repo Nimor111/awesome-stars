@@ -958,7 +958,7 @@
 - [f-o-a-m/purescript-servant](https://github.com/f-o-a-m/purescript-servant) - a servant like DSL for templating requests
 - [kritzcreek/pscid](https://github.com/kritzcreek/pscid) - A lightweight, fast and unintrusive PureScript file-watcher
 - [ajnsit/purescript-formless-independent](https://github.com/ajnsit/purescript-formless-independent) - Formless library, Independent of any UI Framework dependencies
-- [thomashoneyman/purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Painless forms for Halogen
+- [thomashoneyman/purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Forms for Halogen
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [bodil/purescript-smolder](https://github.com/bodil/purescript-smolder) - A combinator library for generating markup
 - [lumihq/purescript-lumi-components](https://github.com/lumihq/purescript-lumi-components) - Library of our UI components
