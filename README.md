@@ -498,7 +498,7 @@
 - [bkomuves/toy-language-server](https://github.com/bkomuves/toy-language-server) - Example language server (LSP) implementation for a toy language
 - [kowainik/unlift](https://github.com/kowainik/unlift) - 🛗 Typeclass for monads that can be unlifted to arbitrary base monads
 - [fosskers/org-mode](https://github.com/fosskers/org-mode) - Parser for Emacs org-mode files
-- [srid/ema](https://github.com/srid/ema) - Haskell static site generator that is change-aware
+- [srid/ema](https://github.com/srid/ema) - Change-aware static site generator for Haskell programmers
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk) - Functional reactive web and mobile applications, with batteries included.
 - [qfpl/reflex-realworld-example](https://github.com/qfpl/reflex-realworld-example) - 
 - [kowainik/eio](https://github.com/kowainik/eio) - 🎯 IO with Exceptions tracked on the type-level
