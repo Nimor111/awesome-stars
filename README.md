@@ -1065,6 +1065,7 @@
 
 - [willghatch/racket-rash](https://github.com/willghatch/racket-rash) - The Reckless Racket Shell
 - [the-little-typer/pie](https://github.com/the-little-typer/pie) - The Pie language, which accompanies The Little Typer by Friedman and Christiansen
+- [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Ruby 
 
@@ -1267,7 +1268,6 @@
 ## Scheme 
 
 - [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-- [racket/racket](https://github.com/racket/racket) - The Racket repository
 
 ## Shell 
 
