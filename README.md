@@ -844,6 +844,7 @@
 
 ## Others 
 
+- [Vuizur/Wiktionary-Dictionaries](https://github.com/Vuizur/Wiktionary-Dictionaries) - Ebook reader dictionaries extracted from Wiktionary in almost all languages, in Stardict, Tabfile and Kindle format
 - [bor0/gidti](https://github.com/bor0/gidti) - Book: Introduction to Dependent Types with Idris
 - [logseq/awesome-logseq](https://github.com/logseq/awesome-logseq) - Awesome Logseq resources created by the community &lt;3
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
