@@ -963,7 +963,7 @@
 - [thomashoneyman/purescript-halogen-formless](https://github.com/thomashoneyman/purescript-halogen-formless) - Forms for Halogen
 - [purescript-react/purescript-react-basic](https://github.com/purescript-react/purescript-react-basic) - An opinionated set of bindings to the React library, optimizing for the most basic use cases
 - [bodil/purescript-smolder](https://github.com/bodil/purescript-smolder) - A combinator library for generating markup
-- [lumihq/purescript-lumi-components](https://github.com/lumihq/purescript-lumi-components) - Library of our UI components
+- [purescript-react/purescript-lumi-components](https://github.com/purescript-react/purescript-lumi-components) - Library of our UI components
 - [purescript/spago](https://github.com/purescript/spago) - 🍝 PureScript package manager and build tool
 - [justinwoo/spacchetti-react-basic-starter](https://github.com/justinwoo/spacchetti-react-basic-starter) - Fork of react-basic-starter using Package sets
 - [thomashoneyman/purescript-halogen-realworld](https://github.com/thomashoneyman/purescript-halogen-realworld) - Exemplary real world application built with PureScript + Halogen
