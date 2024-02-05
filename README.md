@@ -1246,7 +1246,7 @@
 - [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [krzemin/octopus](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
 - [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
-- [mschuwalow/zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend) - Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s and circe
+- [mschuwalow/zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend) - Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s, doobie and circe
 - [VladKopanev/zio-saga](https://github.com/VladKopanev/zio-saga) - Purely Functional Transaction Management In Scala With ZIO
 - [lemastero/scala_typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions from Category theory with simple description & implementation, links to further resources.
 - [estatico/scala-newtype](https://github.com/estatico/scala-newtype) - NewTypes for Scala with no runtime overhead
