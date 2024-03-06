@@ -1073,7 +1073,7 @@
 
 ## Ruby 
 
-- [Homebrew/homebrew-autoupdate](https://github.com/Homebrew/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
+- [DomT4/homebrew-autoupdate](https://github.com/DomT4/homebrew-autoupdate) - :tropical_drink: An easy, convenient way to automatically update Homebrew.
 - [teamcapybara/capybara](https://github.com/teamcapybara/capybara) - Acceptance test framework for web applications
 - [ttscoff/mdless](https://github.com/ttscoff/mdless) - 
 - [qcam/3llo](https://github.com/qcam/3llo) - 3llo - Trello interactive CLI aplication
