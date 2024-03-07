@@ -1260,14 +1260,14 @@
 - [spray/sbt-revolver](https://github.com/spray/sbt-revolver) - An SBT plugin for dangerously fast development turnaround in Scala
 - [shadaj/slinky](https://github.com/shadaj/slinky) - Write Scala.js React apps just like you would in ES6
 - [jaspervz/todo-http4s-doobie](https://github.com/jaspervz/todo-http4s-doobie) - A sample project of a microservice using http4s, doobie, and circe.
-- [lampepfl/dotty](https://github.com/lampepfl/dotty) - The Scala 3 compiler, also known as Dotty.
+- [scala/scala3](https://github.com/scala/scala3) - The Scala 3 compiler, also known as Dotty.
 - [scalaz/scalaz](https://github.com/scalaz/scalaz) - Principled Functional Programming in Scala
 - [typelevel/kind-projector](https://github.com/typelevel/kind-projector) - Compiler plugin for making type lambdas (type projections) easier to write
 - [AlejandroME/ReaderM](https://github.com/AlejandroME/ReaderM) - Repository with a simple Microservice demonstrating some Functional Patterns
 - [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 - [fehmicansaglam/progressed.io](https://github.com/fehmicansaglam/progressed.io) - progressbar microservice
-- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/lampepfl/dotty
+- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
 
 ## Scheme 
 
