@@ -1305,7 +1305,7 @@
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [redox-os/redox](https://github.com/redox-os/redox) - Mirror of https://gitlab.redox-os.org/redox-os/redox
 - [openservicebrokerapi/servicebroker](https://github.com/openservicebrokerapi/servicebroker) - Open Service Broker API Specification
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [trapd00r/zsh-syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - zsh syntax highlighting with dircolors in realtime
 - [uuner/sedtris](https://github.com/uuner/sedtris) - Tetris in sed
 - [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)
@@ -1374,7 +1374,7 @@
 - [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
 - [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [curveball/core](https://github.com/curveball/core) - The Curveball framework is a TypeScript framework for node.js with support for modern HTTP features.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [piotrwitek/react-redux-typescript-webpack-starter](https://github.com/piotrwitek/react-redux-typescript-webpack-starter) - React / Redux / Typescript / Webpack - Starter (optimized for performance)
 - [piotrwitek/react-redux-typescript-guide](https://github.com/piotrwitek/react-redux-typescript-guide) - The complete guide to static typing in "React & Redux" apps using TypeScript
 - [ghotiphud/rust-web-starter](https://github.com/ghotiphud/rust-web-starter) - Rust (Rocket & Diesel) + React (w/ Typescript) + PostgreSQL starter pack.  Currently serves my need for a nice Dev Environment.
