@@ -213,7 +213,6 @@
 - [borodust/notalone](https://github.com/borodust/notalone) - Autumn 2017 Lisp Game Jam Entry
 - [sjl/cl-chip8](https://github.com/sjl/cl-chip8) - chip-8 emulator in common lisp
 - [borodust/trivial-gamekit](https://github.com/borodust/trivial-gamekit) - Simple framework for making 2D games
-- [robert-strandh/SICL](https://github.com/robert-strandh/SICL) - A fresh implementation of Common Lisp
 
 ## Crystal 
 
@@ -323,6 +322,7 @@
 - [millejoh/emacs-ipython-notebook](https://github.com/millejoh/emacs-ipython-notebook) - Jupyter notebook client in Emacs
 - [joostkremers/writeroom-mode](https://github.com/joostkremers/writeroom-mode) - Writeroom-mode: distraction-free writing for Emacs.
 - [abo-abo/swiper](https://github.com/abo-abo/swiper) - Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!
+- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [louietan/anki-editor](https://github.com/louietan/anki-editor) - Emacs minor mode for making Anki cards with Org
 - [emacscollective/no-littering](https://github.com/emacscollective/no-littering) - Help keeping ~/.config/emacs clean
 - [krisajenkins/ob-translate](https://github.com/krisajenkins/ob-translate) - Allows you to translate blocks of text within org-mode.
@@ -807,6 +807,7 @@
 - [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [DavHau/django-nixos](https://github.com/DavHau/django-nixos) - NixOS/NixOps configuration for Django
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
@@ -820,7 +821,7 @@
 - [justinwoo/easy-purescript-nix](https://github.com/justinwoo/easy-purescript-nix) - Easy PureScript (and other tools) with Nix
 - [nh2/nixops-tutorial](https://github.com/nh2/nixops-tutorial) - Tutorial for practical deployments with NixOps
 - [cprussin/nixjs](https://github.com/cprussin/nixjs) - A nix overlay containing a collection of node versions and associated tools
-- [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly. [maintainer=@AxelSilverdew]
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [cprussin/dotfiles](https://github.com/cprussin/dotfiles) - Configure all the things!
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
@@ -1010,7 +1011,6 @@
 - [yalishanda42/mynathon](https://github.com/yalishanda42/mynathon) - Езикът за програмиране за майни и маняци.
 - [jbush001/LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - A microcontroller that natively executes a simple LISP dialect
 - [WeAreWizards/voting-deployment-test](https://github.com/WeAreWizards/voting-deployment-test) - A test Django application to illustrate the practical differences between Ansible and Nix(OS/Ops)
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
@@ -1283,7 +1283,6 @@
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [tsk-tsk/tsk-tsk](https://github.com/tsk-tsk/tsk-tsk) - TSK - The Scripting Kit
-- [daviwil/dotfiles](https://github.com/daviwil/dotfiles) - The path to GNUrvana
 - [jamesottaway/tmux-up](https://github.com/jamesottaway/tmux-up) - Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1324,6 +1323,7 @@
 - [v--/se2018](https://github.com/v--/se2018) - Study notes for my state examination in Sofia University
 - [winitzki/sofp](https://github.com/winitzki/sofp) - A free book: "The Science of Functional Programming"
 - [matman26/emacs-config](https://github.com/matman26/emacs-config) - My configuration files for evil-mode emacs in org-mode format
+- [robert-strandh/SICL](https://github.com/robert-strandh/SICL) - A fresh implementation of Common Lisp
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 ## TypeScript 
