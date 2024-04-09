@@ -678,6 +678,7 @@
 - [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
 - [d3lio/mrend](https://github.com/d3lio/mrend) - A markdown presentation generator
+- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [klaudiosinani/taskbook](https://github.com/klaudiosinani/taskbook) - Tasks, boards & notes for the command-line habitat
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [kefranabg/readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 📄 CLI that generates beautiful README.md files
@@ -824,7 +825,6 @@
 - [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [cprussin/dotfiles](https://github.com/cprussin/dotfiles) - Configure all the things!
 - [Gabriella439/simple-twitter](https://github.com/Gabriella439/simple-twitter) - A bare-bones Twitter clone implemented in a single file
-- [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
 - [nmattia/snack](https://github.com/nmattia/snack) - Nix-based incremental build tool for Haskell projects
 - [IvarWithoutBones/dotfiles](https://github.com/IvarWithoutBones/dotfiles) - My MacOS and NixOS configurations, using home-manager, i3-gaps and sway
 - [Gabriella439/haskell-nix](https://github.com/Gabriella439/haskell-nix) - Nix and Haskell in production
