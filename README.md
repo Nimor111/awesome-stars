@@ -597,7 +597,7 @@
 - [haskell/attoparsec](https://github.com/haskell/attoparsec) - A fast Haskell library for parsing ByteStrings
 - [gtk2hs/gtk2hs](https://github.com/gtk2hs/gtk2hs) - GUI library for Haskell based on GTK+
 - [i-am-tom/haskell-exercises](https://github.com/i-am-tom/haskell-exercises) - A little course to learn about some of the more obscure GHC extensions.
-- [chrisdone/intero](https://github.com/chrisdone/intero) - 
+- [chrisdone-archive/intero](https://github.com/chrisdone-archive/intero) - 
 - [mstksg/inCode](https://github.com/mstksg/inCode) - Source for personal blog.
 - [idris-lang/Idris-dev](https://github.com/idris-lang/Idris-dev) - A Dependently Typed Functional Programming Language
 - [kowainik/summoner](https://github.com/kowainik/summoner) - 🔮 🔧 Tool for scaffolding batteries-included production-level Haskell projects
@@ -616,7 +616,7 @@
 - [sweirich/dth](https://github.com/sweirich/dth) - Examples of Dependently-typed programs in Haskell
 - [tweag/funflow](https://github.com/tweag/funflow) - Functional workflows
 - [haskell-foundation/foundation](https://github.com/haskell-foundation/foundation) - Empire strikes back
-- [chrisdone/jl](https://github.com/chrisdone/jl) - Functional sed for JSON
+- [chrisdone-archive/jl](https://github.com/chrisdone-archive/jl) - Functional sed for JSON
 - [jaspervdj/blaze-html](https://github.com/jaspervdj/blaze-html) - A blazingly fast HTML combinator library for Haskell.
 - [jaspervdj/hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [harpocrates/inline-rust](https://github.com/harpocrates/inline-rust) - Use snippets of Rust inline in your Haskell programs
