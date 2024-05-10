@@ -854,6 +854,7 @@
 - [bbatsov/emacs-lisp-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide) - A community-driven Emacs Lisp style guide
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [bardisty/gruvbox-rofi](https://github.com/bardisty/gruvbox-rofi) - Gruvbox dark and light color themes for Rofi
+- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - [ghostdogpr/zio-cheatsheet](https://github.com/ghostdogpr/zio-cheatsheet) - ZIO Cheat Sheet
 - [challenger-deep-theme/alacritty](https://github.com/challenger-deep-theme/alacritty) - Alacritty Theme
 - [kamadorueda/nixpkgs-db](https://github.com/kamadorueda/nixpkgs-db) - A database with packages from all versions, all commits and all channels.
@@ -1465,7 +1466,6 @@
 - [Hejsil/mecha](https://github.com/Hejsil/mecha) - A parser combinator library for Zig
 - [Nelarius/weekend-raytracer-zig](https://github.com/Nelarius/weekend-raytracer-zig) - A Zig implementation of the "Ray Tracing in One Weekend" book
 - [cshenton/learnopengl](https://github.com/cshenton/learnopengl) - https://learnopengl.com tutorials ported to zig
-- [ratfactor/ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 
 
 ## License
