@@ -696,6 +696,7 @@
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [youneshenniwrites/ReactNativeAuth](https://github.com/youneshenniwrites/ReactNativeAuth) - Mobile user authentication flow with React Native, Expo, and AWS Amplify: Sign In, Sign Up, Confirm Sign Up, Forget Password, Reset Password.
 - [SAP-archive/cloud-sample-spaceflight-node](https://github.com/SAP-archive/cloud-sample-spaceflight-node) - Build node applications with the application programming model on SAP Cloud Platform.
+- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [cloudfoundry/overview-broker](https://github.com/cloudfoundry/overview-broker) - A service broker that provides an overview of its service instances and bindings. Conforms to the Open Service Broker API standard.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [nikoladimitroff/Game-Engine-Architecture](https://github.com/nikoladimitroff/Game-Engine-Architecture) - A repo contaning the learning materials for the course 'Game Engine architecture'
@@ -1268,7 +1269,7 @@
 - [marconilanna/REPLesent](https://github.com/marconilanna/REPLesent) - A neat little tool to build presentations using the Scala REPL
 - [typelevel/cats](https://github.com/typelevel/cats) - Lightweight, modular, and extensible library for functional programming.
 - [fehmicansaglam/progressed.io](https://github.com/fehmicansaglam/progressed.io) - progressbar microservice
-- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
+- [scala/scala](https://github.com/scala/scala) - Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3
 
 ## Scheme 
 
@@ -1365,7 +1366,6 @@
 - [gothinkster/angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Exemplary real world application built with Angular
 - [bradtraversy/nestjs_rest_api](https://github.com/bradtraversy/nestjs_rest_api) - Rest api built with Nest and MongoDB
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
-- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [angular/angularfire](https://github.com/angular/angularfire) - Angular + Firebase = ❤️
 - [IliaIdakiev/boot-camp-01](https://github.com/IliaIdakiev/boot-camp-01) - 
 - [mattwelke/typeorm-postgres-example](https://github.com/mattwelke/typeorm-postgres-example) - An example showing using TypeORM with PostgreSQL, including a seed task.
