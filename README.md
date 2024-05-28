@@ -1250,7 +1250,7 @@
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Your shiny new Java/Scala build tool!
 - [PurpleKingdomGames/indigo](https://github.com/PurpleKingdomGames/indigo) - An FP game engine for Scala.
 - [krzemin/octopus](https://github.com/krzemin/octopus) - Scala library for boilerplate-free validation
-- [softwaremill/tapir](https://github.com/softwaremill/tapir) - Declarative, type-safe web endpoints library
+- [softwaremill/tapir](https://github.com/softwaremill/tapir) - Rapid development of self-documenting APIs
 - [mschuwalow/zio-todo-backend](https://github.com/mschuwalow/zio-todo-backend) - Todo-Backend (https://www.todobackend.com/) implementation using ZIO, http4s, doobie and circe
 - [VladKopanev/zio-saga](https://github.com/VladKopanev/zio-saga) - Purely Functional Transaction Management In Scala With ZIO
 - [lemastero/scala_typeclassopedia](https://github.com/lemastero/scala_typeclassopedia) - Abstractions from Category theory with simple description & implementation, links to further resources.
