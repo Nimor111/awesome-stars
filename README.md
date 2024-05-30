@@ -481,6 +481,7 @@
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [opensourcedesign/fonts](https://github.com/opensourcedesign/fonts) - Archived since there are many great open source font sites already, see https://github.com/opensourcedesign/fonts/issues/21
 - [scala-fmi/scala-fmi-2019](https://github.com/scala-fmi/scala-fmi-2019) - Course materials for Functional Programming in Scala, taught in Sofia University
+- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [haskell-org/summer-of-haskell](https://github.com/haskell-org/summer-of-haskell) - Source code of summer.haskell.org
 - [lispgames/lispgames.github.io](https://github.com/lispgames/lispgames.github.io) - 
 - [6desislava6/R-statistics-2017](https://github.com/6desislava6/R-statistics-2017) - 
@@ -696,7 +697,6 @@
 - [ShizukuIchi/winXP](https://github.com/ShizukuIchi/winXP) - 🏁 Web based Windows XP desktop recreation.
 - [youneshenniwrites/ReactNativeAuth](https://github.com/youneshenniwrites/ReactNativeAuth) - Mobile user authentication flow with React Native, Expo, and AWS Amplify: Sign In, Sign Up, Confirm Sign Up, Forget Password, Reset Password.
 - [SAP-archive/cloud-sample-spaceflight-node](https://github.com/SAP-archive/cloud-sample-spaceflight-node) - Build node applications with the application programming model on SAP Cloud Platform.
-- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [cloudfoundry/overview-broker](https://github.com/cloudfoundry/overview-broker) - A service broker that provides an overview of its service instances and bindings. Conforms to the Open Service Broker API standard.
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [nikoladimitroff/Game-Engine-Architecture](https://github.com/nikoladimitroff/Game-Engine-Architecture) - A repo contaning the learning materials for the course 'Game Engine architecture'
