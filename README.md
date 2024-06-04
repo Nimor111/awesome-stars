@@ -796,7 +796,6 @@
 - [justinwoo/spago2nix](https://github.com/justinwoo/spago2nix) - Generate a derivation of (old) Spago dependencies, and use them to install them into the directory structure used by Spago.
 - [masaeedu/nix-optics](https://github.com/masaeedu/nix-optics) - 
 - [jtojnar/nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) - Beat your package expressions into a shape
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [svanderburg/node2nix](https://github.com/svanderburg/node2nix) - Generate Nix expressions to build NPM packages
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
@@ -809,7 +808,6 @@
 - [nix-dot-dev/getting-started-devenv-template](https://github.com/nix-dot-dev/getting-started-devenv-template) - Based on nix.dev tutorials, repository template to get you started with Nix.
 - [matthewbauer/nix-bundle](https://github.com/matthewbauer/nix-bundle) - Bundle Nix derivations to run anywhere!
 - [DavHau/django-nixos](https://github.com/DavHau/django-nixos) - NixOS/NixOps configuration for Django
-- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [Mic92/nixos-shell](https://github.com/Mic92/nixos-shell) - Spawns lightweight nixos vms in a shell
 - [cmacrae/config](https://github.com/cmacrae/config) - A collection of machine configurations, expressed in Nix
 - [jkachmar/dotnix](https://github.com/jkachmar/dotnix) - Shackled within an elaborate prison of my own design.
@@ -1013,6 +1011,7 @@
 - [yalishanda42/mynathon](https://github.com/yalishanda42/mynathon) - Езикът за програмиране за майни и маняци.
 - [jbush001/LispMicrocontroller](https://github.com/jbush001/LispMicrocontroller) - A microcontroller that natively executes a simple LISP dialect
 - [WeAreWizards/voting-deployment-test](https://github.com/WeAreWizards/voting-deployment-test) - A test Django application to illustrate the practical differences between Ansible and Nix(OS/Ops)
+- [NixOS/nix.dev](https://github.com/NixOS/nix.dev) - Official documentation for getting things done with Nix.
 - [nix-community/pypi2nix](https://github.com/nix-community/pypi2nix) - Abandoned! Generate Nix expressions for Python packages
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [joshiemoore/snakeware](https://github.com/joshiemoore/snakeware) - A free Linux distro with a Python-based userspace
@@ -1285,6 +1284,7 @@
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
 - [tsk-tsk/tsk-tsk](https://github.com/tsk-tsk/tsk-tsk) - TSK - The Scripting Kit
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [jamesottaway/tmux-up](https://github.com/jamesottaway/tmux-up) - Bootstrap new `tmux` sessions without complex tools, DSLs, or dependencies
 - [ssledz/bash-fun](https://github.com/ssledz/bash-fun) - Functional programming in bash
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
