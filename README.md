@@ -406,7 +406,7 @@
 
 ## GLSL 
 
-- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
+- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - C++ examples for the Vulkan graphics API
 
 ## Go 
 
