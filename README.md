@@ -520,7 +520,7 @@
 - [rkaippully/webgear](https://github.com/rkaippully/webgear) - Moved to https://github.com/haskell-webgear/webgear
 - [haskell-servant/servant](https://github.com/haskell-servant/servant) - Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more!
 - [cdepillabout/pretty-simple](https://github.com/cdepillabout/pretty-simple) - pretty-printer for Haskell data types that have a Show instance
-- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [fosskers/aura](https://github.com/fosskers/aura) - A multilingual package manager for Arch Linux and the AUR.
 - [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh) - What I Wish I Knew When Learning Haskell
 - [Yvee1/hascard](https://github.com/Yvee1/hascard) - flashcard TUI with markdown cards
 - [stackbuilders/hapistrano](https://github.com/stackbuilders/hapistrano) - Deploy tool for Haskell applications, like Capistrano for Rails
