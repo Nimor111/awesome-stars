@@ -677,7 +677,6 @@
 - [jasongin/nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
 - [mertJF/tailblocks](https://github.com/mertJF/tailblocks) - Ready-to-use Tailwind CSS blocks.
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [NickyMateev/Line-Clipper](https://github.com/NickyMateev/Line-Clipper) - 💻Efficient navigation between browser and IDE while working on GitHub.
 - [d3lio/mrend](https://github.com/d3lio/mrend) - A markdown presentation generator
 - [NixOS/nix-pills](https://github.com/NixOS/nix-pills) - 
@@ -869,6 +868,7 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [emanguy/JetBrainsMono](https://github.com/emanguy/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) - 💫 A curated list of awesome resources for the Haskell Cabal build tool.
 - [ocharles/papers](https://github.com/ocharles/papers) - A Git annex repository of papers
