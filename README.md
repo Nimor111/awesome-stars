@@ -955,7 +955,7 @@
 - [hoodunit/purescript-payload](https://github.com/hoodunit/purescript-payload) - An HTTP server and client library for PureScript
 - [natefaubion/purescript-run](https://github.com/natefaubion/purescript-run) - An extensible-effects implementation
 - [cprussin/purescript-monad-logger](https://github.com/cprussin/purescript-monad-logger) - A library providing a class for monads which log messages, an associated transformer, and associated data types.
-- [thought2/purescript-refinery](https://github.com/thought2/purescript-refinery) - Refinement types for PureScript
+- [m-bock/purescript-refinery](https://github.com/m-bock/purescript-refinery) - Refinement types for PureScript
 - [natefaubion/purescript-checked-exceptions](https://github.com/natefaubion/purescript-checked-exceptions) - Extensible checked exceptions with polymorphic variants
 - [jonasbuntinx/gatsby-purescript-example](https://github.com/jonasbuntinx/gatsby-purescript-example) - Simple example app using Gatsby.js with Purescript
 - [purescript-contrib/purescript-book](https://github.com/purescript-contrib/purescript-book) - Sources for the PureScript book
