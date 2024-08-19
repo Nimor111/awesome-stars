@@ -169,7 +169,7 @@
 - [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian) - 🕶️ Awesome stuff for Obsidian
 - [fniessen/org-html-themes](https://github.com/fniessen/org-html-themes) - Transform your Org mode files into stunning HTML documents in minutes with our Org mode HTML theme. Elevate your productivity and impress your readers! #orgmode #html #theme #productivity #design
 - [zwbetz-gh/papercss-hugo-theme](https://github.com/zwbetz-gh/papercss-hugo-theme) - A Hugo theme made with PaperCSS, the less formal CSS framework.
-- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.
+- [Volmarg/personal-management-system](https://github.com/Volmarg/personal-management-system) - Your web application for managing personal data.  personal.management.system.inbox@gmail.com
 - [bradtraversy/50projects50days](https://github.com/bradtraversy/50projects50days) - 50+ mini web projects using HTML, CSS & JS
 - [adueck/good-clean-read](https://github.com/adueck/good-clean-read) - A Jekyll template for publishing clean, readable articles and single-page sites
 - [bradtraversy/react-tailwind-pixabay-gallery](https://github.com/bradtraversy/react-tailwind-pixabay-gallery) - Pixabay image gallery
