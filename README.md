@@ -1033,7 +1033,7 @@
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [int8/monte-carlo-tree-search](https://github.com/int8/monte-carlo-tree-search) - Monte carlo tree search in python
 - [skorokithakis/django-annoying](https://github.com/skorokithakis/django-annoying) - A django application that tries to eliminate annoying things in the Django framework. ⛺
-- [aeroxis/sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
+- [davydany/sultan](https://github.com/davydany/sultan) - Sultan: Command and Rule over your Shell
 - [manoloesparta/playlist.py](https://github.com/manoloesparta/playlist.py) - Spotify playlist updater made with python
 - [Ivo-Donchev/vim-react-goto-definition](https://github.com/Ivo-Donchev/vim-react-goto-definition) - Goto definition pluigin for React JS written in Python
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
