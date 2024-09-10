@@ -1156,7 +1156,7 @@
 - [d3lio/degu-lang](https://github.com/d3lio/degu-lang) - A take at a scripting language with an ML (Meta Language) family syntax. Heavily inspired by F#, OCaml and at some extent - Rust.
 - [d3lio/lexpar](https://github.com/d3lio/lexpar) - Lexer and Parser generator
 - [ryanisaacg/quicksilver](https://github.com/ryanisaacg/quicksilver) - A simple framework for 2D games on desktop and web
-- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation, written in pure Rust.
+- [rust-windowing/glutin](https://github.com/rust-windowing/glutin) - A low-level library for OpenGL context creation
 - [m-r-hunt/beneath_the_sands](https://github.com/m-r-hunt/beneath_the_sands) - 
 - [rustgd/collision-rs](https://github.com/rustgd/collision-rs) - A collision extension to cgmath
 - [d3lio/fmi-project-static-code-analyser](https://github.com/d3lio/fmi-project-static-code-analyser) - Static code analyser for a really tiny subset of JavaScript.
@@ -1243,7 +1243,7 @@
 - [softwaremill/quicklens](https://github.com/softwaremill/quicklens) - Modify deeply nested case class fields
 - [softwaremill/sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
 - [kubukoz/videos](https://github.com/kubukoz/videos) - 
-- [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A research language with effect handlers and lightweight effect polymorphism
+- [effekt-lang/effekt](https://github.com/effekt-lang/effekt) - A language with lexical effect handlers and lightweight effect polymorphism
 - [bkirwi/decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala.
 - [wi101/zio-examples](https://github.com/wi101/zio-examples) - 
 - [com-lihaoyi/mill](https://github.com/com-lihaoyi/mill) - Mill is a fast JVM build tool that supports Java and Scala. 2-3x faster than Gradle and 5-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintai
