@@ -871,7 +871,6 @@
 - [emacs-tw/awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and other items.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [emanguy/JetBrainsMono](https://github.com/emanguy/JetBrainsMono) - JetBrains Mono – the free and open-source typeface for developers
 - [kowainik/awesome-cabal](https://github.com/kowainik/awesome-cabal) - 💫 A curated list of awesome resources for the Haskell Cabal build tool.
 - [ocharles/papers](https://github.com/ocharles/papers) - A Git annex repository of papers
@@ -1446,6 +1445,7 @@
 ## Vue 
 
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 ## WebAssembly 
 
