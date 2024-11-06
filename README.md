@@ -655,7 +655,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel) - a fast, scalable, multi-language and extensible build system
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
 - [fmi/java-course](https://github.com/fmi/java-course) - Материали към курса "Съвременни Java технологии"
-- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [gilmore606/ure](https://github.com/gilmore606/ure) - the unRogueEngine
 - [javaee/jersey](https://github.com/javaee/jersey) - This is no longer the active Jersey repository. Please see the README.md
 - [trystan/AsciiPanel](https://github.com/trystan/AsciiPanel) - A java control that displays as an ascii terminal using code page 437.
