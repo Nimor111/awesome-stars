@@ -277,6 +277,7 @@
 
 ## Elm 
 
+- [chshersh/chshersh.github.io](https://github.com/chshersh/chshersh.github.io) - :yellow_heart: My website
 - [NixOS/nixos-search](https://github.com/NixOS/nixos-search) - Search NixOS packages and options
 - [nikita-volkov/typeclasses](https://github.com/nikita-volkov/typeclasses) - Explicit typeclasses for Elm
 - [ellie-app/ellie](https://github.com/ellie-app/ellie) - The Elm Live Editor
@@ -469,7 +470,6 @@
 - [s4n7h0/hugo-theme-timeline](https://github.com/s4n7h0/hugo-theme-timeline) - Simple timeline theme for hugo
 - [portier/portier.github.io](https://github.com/portier/portier.github.io) - Website for Portier, an email-based, passwordless authentication that you can host yourself.
 - [marcin-rzeznicki/libjwt-typed](https://github.com/marcin-rzeznicki/libjwt-typed) - A Haskell implementation of JSON Web Token (JWT)
-- [chshersh/chshersh.github.io](https://github.com/chshersh/chshersh.github.io) - :yellow_heart: My website
 - [ejmg/zerm](https://github.com/ejmg/zerm) - a minimalist and dark theme for Zola
 - [LordMathis/hugo-theme-nix](https://github.com/LordMathis/hugo-theme-nix) - Nix is a simple, minimal theme for Hugo
 - [org-roam/org-roam-server](https://github.com/org-roam/org-roam-server) - A Web Application to Visualize the Org-Roam Database
